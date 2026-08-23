@@ -20,21 +20,14 @@ def find_slope_intercept(x, y, x_mean, y_mean):
     # TODO:
     # Implement the OLS formulas:
     #
-    # numerator   = sum((x_i - x_mean) * (y_i - y_mean))
-    # denominator = sum((x_i - x_mean) ** 2)
-    #
-    # m = numerator / denominator
-    # b = y_mean - m * x_mean
-    #
     # Return: m, b
     pass
 
 
 def predict_lr(x, m, b):
     # TODO:
-    # Generate predictions using:
+    # Generate predictions:
     #
-    # y_hat = m*x + b
     #
     # Return the predicted values.
     pass
@@ -43,9 +36,6 @@ def predict_lr(x, m, b):
 def calculate_residuals(y, y_pred):
     # TODO:
     # Calculate the prediction error for every observation:
-    #
-    # residual = actual - predicted
-    # residual_i = y_i - y_pred_i
     #
     # Return the residuals.
     pass
@@ -59,8 +49,6 @@ def mae(y, y_pred):
     # TODO:
     # Calculate Mean Absolute Error:
     #
-    # MAE = mean(abs(y - y_pred))
-    #
     # Return the MAE.
     pass
 
@@ -68,8 +56,6 @@ def mae(y, y_pred):
 def mse(y, y_pred):
     # TODO:
     # Calculate Mean Squared Error:
-    #
-    # MSE = mean((y - y_pred) ** 2)
     #
     # Return the MSE.
     pass
@@ -79,8 +65,6 @@ def rmse(y, y_pred):
     # TODO:
     # Calculate Root Mean Squared Error:
     #
-    # RMSE = sqrt(MSE)
-    #
     # Return the RMSE.
     pass
 
@@ -89,10 +73,6 @@ def r_square(y, y_pred, y_mean):
     # TODO:
     # Calculate R²:
     #
-    # ss_total    = sum((y - y_mean) ** 2)
-    # ss_residual = sum((y - y_pred) ** 2)
-    #
-    # R² = 1 - (ss_residual / ss_total)
     #
     # Return R².
     pass
