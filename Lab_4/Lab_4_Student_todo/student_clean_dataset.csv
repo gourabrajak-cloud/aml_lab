@@ -1,0 +1,301 @@
+Student_ID,Age,Gender,Department,Study_Hours,Attendance,Assignments,Exam_Score,Result,Grade,Placement,LPA
+ST001,18,Male,Computer Science,3,98,12,60,Pass,B,Not Placed,0.0
+ST002,20,Male,Computer Science,1,81,11,44,Pass,D,Not Placed,0.0
+ST003,19,Male,Computer Science,3,76,9,46,Pass,D,Not Placed,0.0
+ST004,19,Female,Computer Science,5,100,10,51,Pass,C,Placed,3.39
+ST005,18,Female,Computer Science,5,68,13,54,Pass,C,Placed,3.12
+ST006,18,Female,Information Technology,8,60,20,91,Pass,A+,Placed,16.19
+ST007,17,Male,Computer Science,7,86,15,68,Pass,B,Not Placed,0.0
+ST008,19,Male,Information Technology,4,77,15,65,Pass,B,Not Placed,0.0
+ST009,19,Female,Information Technology,4,72,15,64,Pass,B,Not Placed,0.0
+ST010,19,Male,Electronics,4,89,10,45,Pass,D,Not Placed,0.0
+ST011,17,Male,Computer Science,6,84,16,79,Pass,A,Not Placed,0.0
+ST012,20,Male,Electronics,4,76,15,62,Pass,B,Not Placed,0.0
+ST013,19,Male,Electronics,6,69,14,62,Pass,B,Placed,4.54
+ST014,18,Female,Computer Science,5,91,13,60,Pass,B,Not Placed,0.0
+ST015,18,Female,Mechanical,5,89,12,63,Pass,B,Not Placed,0.0
+ST016,18,Female,Mechanical,5,81,11,51,Pass,C,Not Placed,0.0
+ST017,18,Male,Computer Science,4,100,10,57,Pass,C,Placed,4.93
+ST018,18,Male,Computer Science,8,71,15,68,Pass,B,Placed,5.12
+ST019,18,Male,Mechanical,7,67,16,71,Pass,A,Placed,6.04
+ST020,18,Male,Electronics,3,75,8,37,Fail,F,Not Placed,0.0
+ST021,19,Male,Computer Science,7,82,17,77,Pass,A,Not Placed,0.0
+ST022,17,Female,Computer Science,5,84,10,46,Pass,D,Not Placed,0.0
+ST023,18,Female,Information Technology,8,80,18,83,Pass,A+,Placed,8.74
+ST024,18,Male,Information Technology,7,86,18,88,Pass,A+,Not Placed,0.0
+ST025,18,Female,Electronics,5,69,9,43,Pass,D,Not Placed,0.0
+ST026,19,Female,Information Technology,1,96,7,34,Fail,F,Not Placed,0.0
+ST027,18,Male,Information Technology,4,81,14,62,Pass,B,Placed,4.28
+ST028,18,Female,Electronics,5,93,11,61,Pass,B,Placed,4.89
+ST029,19,Male,Computer Science,6,85,18,79,Pass,A,Placed,6.88
+ST030,17,Male,Computer Science,4,87,12,58,Pass,C,Not Placed,0.0
+ST031,19,Male,Electronics,3,88,8,42,Pass,D,Not Placed,0.0
+ST032,18,Female,Mechanical,7,86,16,72,Pass,A,Not Placed,0.0
+ST033,17,Male,Information Technology,10,88,20,94,Pass,A+,Placed,19.27
+ST034,20,Male,Information Technology,5,95,13,59,Pass,C,Not Placed,0.0
+ST035,20,Male,Computer Science,3,84,11,52,Pass,C,Not Placed,0.0
+ST036,19,Male,Information Technology,4,89,10,53,Pass,C,Not Placed,0.0
+ST037,18,Female,Information Technology,0,81,5,21,Fail,F,Not Placed,0.0
+ST038,17,Female,Computer Science,8,96,15,78,Pass,A,Placed,6.21
+ST039,19,Male,Computer Science,3,75,10,48,Pass,D,Not Placed,0.0
+ST040,18,Male,Information Technology,5,100,11,58,Pass,C,Not Placed,0.0
+ST041,17,Male,Computer Science,4,82,10,52,Pass,C,Not Placed,0.0
+ST042,18,Male,Computer Science,5,68,15,62,Pass,B,Not Placed,0.0
+ST043,17,Male,Computer Science,6,83,17,79,Pass,A,Placed,7.98
+ST044,20,Male,Computer Science,7,75,17,80,Pass,A+,Placed,9.64
+ST045,18,Male,Computer Science,3,90,8,40,Pass,D,Not Placed,0.0
+ST046,19,Female,Mechanical,0,75,4,17,Fail,F,Not Placed,0.0
+ST047,18,Female,Information Technology,3,78,12,54,Pass,C,Not Placed,0.0
+ST048,18,Male,Electronics,8,63,18,84,Pass,A+,Placed,8.87
+ST049,18,Male,Electronics,8,77,20,90,Pass,A+,Placed,20.96
+ST050,18,Female,Information Technology,6,60,15,66,Pass,B,Placed,5.24
+ST051,20,Male,Computer Science,6,66,15,63,Pass,B,Placed,4.4
+ST052,19,Female,Information Technology,6,90,14,70,Pass,A,Placed,6.19
+ST053,20,Female,Information Technology,3,90,10,50,Pass,C,Not Placed,0.0
+ST054,19,Male,Electronics,8,86,17,86,Pass,A+,Placed,7.12
+ST055,19,Male,Information Technology,5,72,14,62,Pass,B,Placed,4.95
+ST056,20,Female,Computer Science,4,82,13,63,Pass,B,Placed,5.09
+ST057,17,Male,Computer Science,5,82,11,57,Pass,C,Not Placed,0.0
+ST058,18,Male,Information Technology,1,70,4,18,Fail,F,Not Placed,0.0
+ST059,17,Female,Electronics,3,97,6,39,Fail,F,Not Placed,0.0
+ST060,18,Male,Information Technology,6,91,16,74,Pass,A,Placed,5.68
+ST061,18,Male,Information Technology,2,80,6,32,Fail,F,Not Placed,0.0
+ST062,18,Female,Mechanical,6,82,10,58,Pass,C,Not Placed,0.0
+ST063,19,Male,Electronics,4,84,12,54,Pass,C,Not Placed,0.0
+ST064,18,Male,Computer Science,4,62,16,60,Pass,B,Not Placed,0.0
+ST065,18,Female,Computer Science,4,80,11,56,Pass,C,Not Placed,0.0
+ST066,18,Male,Computer Science,4,75,13,62,Pass,B,Not Placed,0.0
+ST067,17,Female,Computer Science,6,72,15,70,Pass,A,Placed,7.89
+ST068,19,Female,Computer Science,4,79,11,50,Pass,C,Placed,4.82
+ST069,17,Male,Computer Science,5,100,15,70,Pass,A,Placed,7.17
+ST070,20,Male,Computer Science,5,88,12,55,Pass,C,Not Placed,0.0
+ST071,19,Male,Computer Science,6,76,15,64,Pass,B,Placed,5.07
+ST072,18,Male,Mechanical,8,88,18,91,Pass,A+,Placed,27.27
+ST073,17,Male,Computer Science,6,96,13,68,Pass,B,Not Placed,0.0
+ST074,19,Female,Information Technology,3,91,12,56,Pass,C,Not Placed,0.0
+ST075,19,Male,Information Technology,1,83,6,25,Fail,F,Not Placed,0.0
+ST076,19,Male,Mechanical,4,76,10,49,Pass,D,Not Placed,0.0
+ST077,19,Female,Computer Science,6,89,16,80,Pass,A+,Placed,7.39
+ST078,17,Male,Information Technology,2,86,6,30,Fail,F,Not Placed,0.0
+ST079,18,Female,Mechanical,5,91,13,65,Pass,B,Not Placed,0.0
+ST080,17,Male,Mechanical,6,88,15,72,Pass,A,Placed,7.37
+ST081,19,Male,Mechanical,4,92,14,64,Pass,B,Placed,4.25
+ST082,19,Female,Computer Science,7,77,17,82,Pass,A+,Placed,9.38
+ST083,18,Female,Computer Science,2,95,8,45,Pass,D,Not Placed,0.0
+ST084,17,Female,Electronics,2,84,10,47,Pass,D,Not Placed,0.0
+ST085,18,Female,Mechanical,6,100,17,84,Pass,A+,Placed,7.83
+ST086,18,Female,Information Technology,5,75,14,62,Pass,B,Not Placed,0.0
+ST087,19,Male,Information Technology,6,99,15,78,Pass,A,Placed,7.63
+ST088,19,Male,Computer Science,5,84,10,50,Pass,C,Not Placed,0.0
+ST089,19,Female,Electronics,4,75,9,39,Fail,F,Not Placed,0.0
+ST090,18,Female,Computer Science,7,77,16,73,Pass,A,Placed,7.83
+ST091,17,Female,Computer Science,7,79,15,68,Pass,B,Placed,4.3
+ST092,19,Male,Information Technology,6,86,14,68,Pass,B,Placed,4.93
+ST093,19,Male,Information Technology,4,87,12,61,Pass,B,Not Placed,0.0
+ST094,19,Female,Computer Science,6,76,16,71,Pass,A,Placed,7.94
+ST095,19,Male,Computer Science,4,82,11,54,Pass,C,Not Placed,0.0
+ST096,18,Female,Electronics,2,100,9,40,Pass,D,Not Placed,0.0
+ST097,18,Female,Computer Science,8,99,18,86,Pass,A+,Placed,8.45
+ST098,18,Male,Information Technology,3,86,6,30,Fail,F,Not Placed,0.0
+ST099,17,Female,Computer Science,9,82,18,90,Pass,A+,Placed,27.13
+ST100,17,Female,Information Technology,5,83,13,60,Pass,B,Not Placed,0.0
+ST101,17,Male,Information Technology,3,88,7,40,Pass,D,Not Placed,0.0
+ST102,19,Female,Computer Science,5,72,14,65,Pass,B,Placed,5.18
+ST103,18,Male,Computer Science,8,79,20,86,Pass,A+,Placed,8.13
+ST104,18,Female,Computer Science,6,65,17,69,Pass,B,Placed,4.57
+ST105,20,Male,Computer Science,7,86,16,76,Pass,A,Placed,5.61
+ST106,18,Female,Mechanical,6,88,18,80,Pass,A+,Placed,9.29
+ST107,18,Male,Computer Science,6,77,15,73,Pass,A,Placed,6.16
+ST108,19,Male,Mechanical,7,98,16,82,Pass,A+,Not Placed,0.0
+ST109,18,Female,Computer Science,4,70,10,46,Pass,D,Not Placed,0.0
+ST110,17,Male,Electronics,5,67,12,54,Pass,C,Not Placed,0.0
+ST111,18,Male,Electronics,3,84,9,44,Pass,D,Not Placed,0.0
+ST112,18,Female,Information Technology,10,92,20,93,Pass,A+,Placed,19.74
+ST113,20,Female,Information Technology,8,99,18,84,Pass,A+,Placed,8.48
+ST114,19,Male,Information Technology,1,77,7,33,Fail,F,Not Placed,0.0
+ST115,19,Female,Computer Science,6,93,15,69,Pass,B,Placed,5.15
+ST116,19,Male,Mechanical,8,82,20,96,Pass,A+,Placed,27.18
+ST117,19,Male,Mechanical,3,80,12,58,Pass,C,Not Placed,0.0
+ST118,18,Male,Mechanical,5,91,10,56,Pass,C,Placed,4.96
+ST119,19,Female,Computer Science,8,89,13,70,Pass,A,Placed,6.22
+ST120,18,Female,Electronics,1,66,8,32,Fail,F,Not Placed,0.0
+ST121,19,Female,Mechanical,6,97,12,58,Pass,C,Placed,4.66
+ST122,19,Female,Computer Science,4,96,11,50,Pass,C,Not Placed,0.0
+ST123,18,Male,Computer Science,8,76,15,68,Pass,B,Placed,5.53
+ST124,17,Male,Electronics,9,86,16,80,Pass,A+,Placed,8.72
+ST125,18,Male,Information Technology,8,87,19,89,Pass,A+,Placed,9.87
+ST126,18,Male,Mechanical,5,85,15,65,Pass,B,Not Placed,0.0
+ST127,19,Male,Computer Science,7,76,15,66,Pass,B,Placed,4.4
+ST128,19,Female,Electronics,7,75,11,60,Pass,B,Placed,4.22
+ST129,17,Male,Computer Science,4,82,10,48,Pass,D,Not Placed,0.0
+ST130,18,Male,Computer Science,7,94,17,81,Pass,A+,Placed,9.56
+ST131,18,Male,Computer Science,1,87,4,19,Fail,F,Not Placed,0.0
+ST132,18,Female,Mechanical,6,78,15,69,Pass,B,Placed,4.88
+ST133,17,Female,Electronics,4,90,11,57,Pass,C,Placed,4.69
+ST134,18,Male,Information Technology,3,60,11,40,Pass,D,Placed,3.34
+ST135,20,Male,Information Technology,2,93,8,44,Pass,D,Not Placed,0.0
+ST136,18,Female,Mechanical,6,65,13,55,Pass,C,Not Placed,0.0
+ST137,18,Male,Information Technology,4,78,14,58,Pass,C,Not Placed,0.0
+ST138,19,Female,Mechanical,6,71,14,65,Pass,B,Not Placed,0.0
+ST139,18,Female,Information Technology,2,69,8,34,Fail,F,Not Placed,0.0
+ST140,20,Male,Information Technology,4,94,10,54,Pass,C,Not Placed,0.0
+ST141,20,Male,Information Technology,5,77,12,58,Pass,C,Placed,3.12
+ST142,18,Female,Computer Science,7,85,14,69,Pass,B,Not Placed,0.0
+ST143,18,Male,Electronics,4,82,11,57,Pass,C,Not Placed,0.0
+ST144,18,Male,Information Technology,6,87,18,86,Pass,A+,Placed,9.65
+ST145,18,Female,Computer Science,8,83,15,71,Pass,A,Placed,6.34
+ST146,17,Female,Mechanical,6,69,11,50,Pass,C,Placed,4.02
+ST147,19,Female,Information Technology,4,92,14,60,Pass,B,Placed,5.25
+ST148,18,Female,Information Technology,1,77,6,28,Fail,F,Not Placed,0.0
+ST149,17,Male,Mechanical,8,66,16,72,Pass,A,Placed,7.78
+ST150,18,Male,Electronics,1,78,9,36,Fail,F,Not Placed,0.0
+ST151,20,Female,Computer Science,8,97,17,89,Pass,A+,Placed,7.06
+ST152,18,Male,Mechanical,5,91,17,75,Pass,A,Placed,6.43
+ST153,17,Male,Electronics,8,79,19,85,Pass,A+,Placed,9.06
+ST154,18,Female,Computer Science,7,79,15,71,Pass,A,Not Placed,0.0
+ST155,20,Male,Computer Science,10,79,20,97,Pass,A+,Placed,24.18
+ST156,18,Male,Electronics,4,100,10,55,Pass,C,Placed,4.39
+ST157,19,Male,Electronics,7,86,18,82,Pass,A+,Placed,7.4
+ST158,19,Male,Information Technology,5,86,14,66,Pass,B,Placed,4.6
+ST159,18,Male,Mechanical,5,92,16,72,Pass,A,Placed,6.08
+ST160,19,Male,Electronics,6,84,18,86,Pass,A+,Not Placed,0.0
+ST161,18,Male,Computer Science,8,79,18,87,Pass,A+,Placed,9.41
+ST162,19,Female,Computer Science,10,80,19,94,Pass,A+,Placed,14.85
+ST163,19,Female,Computer Science,7,81,17,83,Pass,A+,Placed,7.63
+ST164,18,Male,Electronics,5,82,12,62,Pass,B,Not Placed,0.0
+ST165,17,Female,Computer Science,5,89,17,72,Pass,A,Not Placed,0.0
+ST166,19,Male,Information Technology,6,83,15,66,Pass,B,Not Placed,0.0
+ST167,18,Male,Electronics,4,89,11,57,Pass,C,Placed,4.91
+ST168,18,Female,Mechanical,3,81,10,48,Pass,D,Not Placed,0.0
+ST169,17,Male,Computer Science,4,83,9,42,Pass,D,Placed,2.01
+ST170,19,Female,Mechanical,4,62,9,42,Pass,D,Not Placed,0.0
+ST171,19,Male,Computer Science,4,91,14,60,Pass,B,Placed,6.0
+ST172,17,Female,Mechanical,4,85,10,53,Pass,C,Not Placed,0.0
+ST173,18,Male,Computer Science,1,92,5,26,Fail,F,Not Placed,0.0
+ST174,18,Female,Information Technology,0,60,6,18,Fail,F,Not Placed,0.0
+ST175,19,Male,Electronics,10,100,20,100,Pass,A+,Placed,23.21
+ST176,18,Female,Computer Science,5,81,14,65,Pass,B,Placed,5.66
+ST177,19,Male,Computer Science,4,93,13,60,Pass,B,Placed,4.59
+ST178,18,Male,Electronics,6,72,13,62,Pass,B,Placed,4.03
+ST179,20,Female,Electronics,3,88,7,40,Pass,D,Not Placed,0.0
+ST180,17,Male,Electronics,8,71,20,94,Pass,A+,Placed,24.5
+ST181,18,Female,Electronics,7,76,16,70,Pass,A,Placed,7.5
+ST182,17,Female,Information Technology,2,100,8,47,Pass,D,Not Placed,0.0
+ST183,20,Male,Computer Science,5,80,16,68,Pass,B,Placed,5.48
+ST184,19,Female,Computer Science,8,84,19,88,Pass,A+,Placed,7.43
+ST185,18,Male,Computer Science,8,91,19,87,Pass,A+,Placed,9.26
+ST186,19,Female,Mechanical,5,87,17,81,Pass,A+,Not Placed,0.0
+ST187,19,Male,Information Technology,6,84,13,66,Pass,B,Not Placed,0.0
+ST188,19,Male,Information Technology,3,86,12,58,Pass,C,Not Placed,0.0
+ST189,18,Female,Information Technology,10,100,20,100,Pass,A+,Placed,25.15
+ST190,18,Female,Mechanical,4,81,12,57,Pass,C,Not Placed,0.0
+ST191,17,Male,Computer Science,8,84,20,95,Pass,A+,Placed,22.83
+ST192,19,Female,Information Technology,6,93,16,74,Pass,A,Placed,7.3
+ST193,20,Male,Information Technology,6,93,16,75,Pass,A,Not Placed,0.0
+ST194,19,Male,Electronics,5,94,15,70,Pass,A,Placed,7.54
+ST195,18,Male,Computer Science,4,88,11,56,Pass,C,Not Placed,0.0
+ST196,18,Male,Mechanical,3,71,8,38,Fail,F,Not Placed,0.0
+ST197,19,Male,Mechanical,3,98,8,46,Pass,D,Not Placed,0.0
+ST198,19,Male,Information Technology,3,71,6,32,Fail,F,Not Placed,0.0
+ST199,19,Female,Electronics,7,85,20,86,Pass,A+,Placed,8.84
+ST200,19,Female,Mechanical,4,74,9,47,Pass,D,Not Placed,0.0
+ST201,19,Female,Electronics,2,81,8,35,Fail,F,Not Placed,0.0
+ST202,17,Male,Computer Science,9,85,19,91,Pass,A+,Placed,10.86
+ST203,18,Male,Information Technology,8,85,18,81,Pass,A+,Placed,8.46
+ST204,19,Female,Electronics,8,86,19,90,Pass,A+,Placed,10.63
+ST205,19,Female,Information Technology,10,98,20,96,Pass,A+,Placed,17.56
+ST206,17,Male,Electronics,3,87,9,41,Pass,D,Not Placed,0.0
+ST207,17,Female,Mechanical,5,80,13,66,Pass,B,Placed,4.81
+ST208,19,Female,Mechanical,7,92,17,78,Pass,A,Placed,5.2
+ST209,17,Female,Information Technology,6,94,14,74,Pass,A,Placed,6.05
+ST210,18,Female,Computer Science,3,70,13,56,Pass,C,Placed,3.22
+ST211,18,Female,Mechanical,7,88,17,80,Pass,A+,Placed,9.42
+ST212,19,Male,Mechanical,3,89,11,47,Pass,D,Not Placed,0.0
+ST213,19,Female,Computer Science,3,79,11,44,Pass,D,Not Placed,0.0
+ST214,18,Female,Mechanical,5,96,15,72,Pass,A,Placed,7.84
+ST215,19,Male,Mechanical,6,80,15,72,Pass,A,Placed,5.22
+ST216,18,Male,Information Technology,5,83,10,50,Pass,C,Not Placed,0.0
+ST217,18,Male,Information Technology,2,80,9,46,Pass,D,Not Placed,0.0
+ST218,19,Female,Information Technology,8,82,16,76,Pass,A,Placed,7.87
+ST219,19,Female,Computer Science,4,71,10,44,Pass,D,Not Placed,0.0
+ST220,19,Male,Computer Science,3,68,11,46,Pass,D,Not Placed,0.0
+ST221,19,Male,Mechanical,8,98,20,96,Pass,A+,Placed,19.97
+ST222,19,Male,Computer Science,9,74,19,85,Pass,A+,Placed,7.9
+ST223,17,Female,Computer Science,7,72,17,80,Pass,A+,Placed,7.23
+ST224,18,Female,Information Technology,7,60,20,89,Pass,A+,Placed,8.5
+ST225,18,Female,Information Technology,6,76,15,70,Pass,A,Not Placed,0.0
+ST226,18,Male,Mechanical,5,69,18,70,Pass,A,Not Placed,0.0
+ST227,20,Male,Computer Science,2,98,9,46,Pass,D,Not Placed,0.0
+ST228,18,Male,Computer Science,5,92,9,48,Pass,D,Not Placed,0.0
+ST229,19,Male,Electronics,4,75,13,56,Pass,C,Not Placed,0.0
+ST230,19,Female,Information Technology,4,100,12,56,Pass,C,Not Placed,0.0
+ST231,19,Female,Computer Science,6,92,17,78,Pass,A,Placed,7.38
+ST232,18,Female,Information Technology,5,79,14,64,Pass,B,Not Placed,0.0
+ST233,19,Female,Computer Science,2,60,8,36,Fail,F,Not Placed,0.0
+ST234,18,Male,Computer Science,3,100,7,46,Pass,D,Not Placed,0.0
+ST235,18,Female,Information Technology,6,68,14,64,Pass,B,Not Placed,0.0
+ST236,19,Female,Information Technology,2,66,6,32,Fail,F,Not Placed,0.0
+ST237,18,Female,Mechanical,7,92,15,74,Pass,A,Placed,7.12
+ST238,17,Male,Information Technology,5,100,14,72,Pass,A,Placed,5.15
+ST239,19,Male,Information Technology,5,96,16,72,Pass,A,Placed,5.22
+ST240,18,Male,Electronics,6,88,15,66,Pass,B,Placed,4.81
+ST241,20,Female,Computer Science,7,88,14,68,Pass,B,Not Placed,0.0
+ST242,20,Female,Electronics,4,91,12,61,Pass,B,Placed,4.59
+ST243,20,Male,Computer Science,6,90,17,77,Pass,A,Placed,5.7
+ST244,18,Female,Mechanical,5,85,12,54,Pass,C,Placed,3.56
+ST245,17,Female,Computer Science,4,83,11,56,Pass,C,Not Placed,0.0
+ST246,20,Male,Information Technology,8,81,18,83,Pass,A+,Placed,9.41
+ST247,18,Male,Computer Science,7,74,15,67,Pass,B,Placed,5.86
+ST248,20,Female,Mechanical,6,79,16,76,Pass,A,Placed,6.22
+ST249,20,Male,Information Technology,7,65,16,69,Pass,B,Placed,5.81
+ST250,19,Female,Information Technology,7,81,17,79,Pass,A,Placed,5.96
+ST251,18,Male,Computer Science,6,72,13,56,Pass,C,Not Placed,0.0
+ST252,18,Female,Electronics,7,71,15,69,Pass,B,Not Placed,0.0
+ST253,19,Male,Computer Science,6,84,16,71,Pass,A,Placed,6.43
+ST254,18,Male,Mechanical,6,96,14,73,Pass,A,Placed,5.68
+ST255,18,Female,Computer Science,6,91,18,88,Pass,A+,Not Placed,0.0
+ST256,19,Male,Computer Science,7,66,15,64,Pass,B,Placed,5.28
+ST257,20,Male,Computer Science,3,72,10,47,Pass,D,Not Placed,0.0
+ST258,19,Male,Information Technology,8,91,20,93,Pass,A+,Placed,29.56
+ST259,19,Female,Information Technology,8,72,15,74,Pass,A,Placed,6.81
+ST260,17,Female,Computer Science,1,80,3,14,Fail,F,Not Placed,0.0
+ST261,19,Female,Electronics,7,88,13,66,Pass,B,Placed,4.72
+ST262,20,Male,Information Technology,3,72,12,48,Pass,D,Not Placed,0.0
+ST263,17,Male,Information Technology,4,83,10,53,Pass,C,Not Placed,0.0
+ST264,18,Male,Information Technology,6,69,20,83,Pass,A+,Placed,8.94
+ST265,19,Male,Information Technology,3,76,9,44,Pass,D,Placed,2.18
+ST266,19,Male,Information Technology,7,85,17,84,Pass,A+,Placed,9.67
+ST267,19,Male,Computer Science,7,66,19,77,Pass,A,Placed,6.51
+ST268,19,Male,Computer Science,5,86,17,75,Pass,A,Placed,6.35
+ST269,18,Female,Mechanical,0,82,9,34,Fail,F,Not Placed,0.0
+ST270,18,Male,Mechanical,4,88,14,62,Pass,B,Placed,5.17
+ST271,19,Male,Information Technology,6,84,17,74,Pass,A,Not Placed,0.0
+ST272,19,Female,Computer Science,10,96,20,100,Pass,A+,Placed,22.12
+ST273,19,Male,Electronics,6,83,16,71,Pass,A,Placed,5.22
+ST274,20,Female,Information Technology,4,78,10,44,Pass,D,Not Placed,0.0
+ST275,18,Female,Computer Science,6,83,13,67,Pass,B,Placed,5.37
+ST276,18,Female,Computer Science,5,87,13,67,Pass,B,Not Placed,0.0
+ST277,19,Male,Electronics,7,82,16,78,Pass,A,Placed,5.73
+ST278,19,Female,Electronics,2,82,7,35,Fail,F,Not Placed,0.0
+ST279,19,Male,Computer Science,7,75,18,81,Pass,A+,Placed,9.14
+ST280,19,Male,Computer Science,5,75,15,61,Pass,B,Not Placed,0.0
+ST281,19,Male,Computer Science,9,68,20,89,Pass,A+,Placed,9.47
+ST282,18,Female,Electronics,4,99,14,72,Pass,A,Not Placed,0.0
+ST283,18,Male,Computer Science,6,70,12,62,Pass,B,Placed,5.61
+ST284,17,Male,Computer Science,8,75,17,76,Pass,A,Not Placed,0.0
+ST285,19,Female,Electronics,2,75,7,27,Fail,F,Not Placed,0.0
+ST286,17,Male,Computer Science,8,91,14,71,Pass,A,Placed,6.66
+ST287,18,Male,Electronics,6,79,14,62,Pass,B,Placed,5.04
+ST288,18,Male,Computer Science,2,94,8,36,Fail,F,Not Placed,0.0
+ST289,18,Male,Computer Science,4,75,14,58,Pass,C,Not Placed,0.0
+ST290,19,Male,Computer Science,6,85,16,76,Pass,A,Placed,5.43
+ST291,17,Male,Electronics,2,74,6,30,Fail,F,Not Placed,0.0
+ST292,17,Female,Mechanical,5,100,17,80,Pass,A+,Placed,9.33
+ST293,19,Male,Mechanical,4,70,14,60,Pass,B,Not Placed,0.0
+ST294,18,Male,Information Technology,6,85,16,77,Pass,A,Placed,5.81
+ST295,17,Female,Electronics,1,88,6,28,Fail,F,Not Placed,0.0
+ST296,18,Male,Computer Science,8,86,16,74,Pass,A,Not Placed,0.0
+ST297,19,Female,Computer Science,9,80,19,92,Pass,A+,Placed,19.43
+ST298,18,Male,Mechanical,9,81,20,94,Pass,A+,Placed,14.97
+ST299,19,Male,Computer Science,6,82,18,82,Pass,A+,Placed,7.4
+ST300,17,Male,Computer Science,3,81,13,54,Pass,C,Placed,4.26
