@@ -1,0 +1,25 @@
+MLR Gradient Descent - Student TODO
+
+Ground Truth 2 is the reference. Complete ONLY the MLR work.
+
+1. MLR Python file
+   - Complete compute_mlr_gradient().
+   - Find n.
+   - Create the intercept column of ones.
+   - Create H by adding the ones column to X.
+   - Compute the full-batch gradient.
+   - Store it in the variable named gradient.
+   - Return gradient.
+
+2. MLR Notebook
+   - Complete the marked batch_gradient_descent_mlr() call.
+   - Use the parameters already defined in the notebook.
+   - Run the MLR section and verify the loss history.
+
+Rules
+- Do not change SLR.
+- Do not change OLS.
+- Do not change any other files.
+- Do not change MLR functions other than the marked gradient TODO.
+- Do not introduce db or dw. Use gradient.
+- Use H for the design matrix with the intercept column of ones.
