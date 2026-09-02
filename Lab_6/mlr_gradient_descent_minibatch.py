@@ -1,0 +1,139 @@
+import numpy as np
+
+def predict_mlr(X, weights):
+    """Generate MLR predictions: y_hat = H @ weights."""
+    ones = np.ones((len(X), 1))
+    H = np.hstack((ones, X))
+    return H @ weights
+
+
+def compute_mlr_residual(y, predictions):
+    """Compute prediction error: predicted minus actual."""
+    return predictions - y
+
+
+def compute_mlr_gradient(X, residual):
+    """Compute the full batch gradient for all MLR parameters."""
+    ones = np.ones((len(X), 1))
+    H = np.hstack((ones, X))
+    return 2/len(X)*((H.T)@residual)
+    
+
+def compute_mlr_loss(residual):
+    """Compute Mean Squared Error loss."""
+    return np.mean(residual**2)
+
+
+def update_mlr_parameters(weights, gradient, alpha):
+    """Update all MLR parameters using the learning rate."""
+    return weights - alpha * gradient
+
+
+
+
+
+def minibatch_gradient_descent_mlr(X, y, theta, alpha, epochs, batch_size):
+    loss = 0
+    loss_history = []
+    #TODO
+    for epoch in range(epochs):
+        #TODO
+        loss = 
+        loss_history.append(loss)
+
+        if epoch % 100 == 0:
+            print(f"Epoch {epoch:3d} | Loss = {loss:.4f}")
+
+    return theta, loss_history
+
+
+
+
+########### Its just previous functions for calculating errors & validation plz ignore this ##########
+
+def find_mean(values):
+    return np.mean(values)
+
+
+def find_slope_intercept(x, y, x_mean, y_mean):
+    numerator = np.sum((x - x_mean) * (y - y_mean))
+    denominator = np.sum((x - x_mean) ** 2)
+
+    if denominator == 0:
+        raise ValueError("Cannot calculate slope: x has zero variance.")
+
+    m = numerator / denominator
+    b = y_mean - m * x_mean
+    return m, b
+
+
+def predict_lr(x, m, b):
+    return m * x + b
+
+
+def mae(y, y_pred):
+    return np.mean(np.abs(y - y_pred))
+
+
+def mse(y, y_pred):
+    return np.mean((y - y_pred) ** 2)
+
+
+def rmse(y, y_pred):
+    return np.sqrt(mse(y, y_pred))
+
+
+def r_square(y, y_pred, y_mean):
+    ss_total = np.sum((y - y_mean) ** 2)
+    ss_residual = np.sum((y - y_pred) ** 2)
+
+    if ss_total == 0:
+        raise ValueError("R^2 is undefined when y has zero variance.")
+
+    return 1 - (ss_residual / ss_total)
+
+
+def validate_xy(X, y):
+    print("X shape:", X.shape)
+    print("y shape:", y.shape)
+
+    print("\nX data type:")
+    print(X.dtypes)
+
+    print("\ny data type:")
+    print(y.dtypes)
+
+    print("\nMissing values:")
+    print("X:", X.isna().sum().sum())
+    print("y:", y.isna().sum())
+
+    print("\nNumber of observations:")
+    print("X:", len(X))
+    print("y:", len(y))
+
+    if len(X) != len(y):
+        raise ValueError("X and y must have the same number of observations.")
+
+    if X.isna().any().any() or y.isna().any():
+        raise ValueError("X and y contain missing values.")
+
+    print("\nX and y validation successful.")
+
+
+import time
+
+start_time = None
+stop_time = None
+
+def start():
+    global start_time, stop_time
+    start_time = time.perf_counter()
+    stop_time = None
+
+def stop():
+    global stop_time
+    stop_time = time.perf_counter()
+
+def runtime_in_ms():
+    end_time = stop_time if stop_time is not None else time.perf_counter()
+    return (end_time - start_time) * 1000
