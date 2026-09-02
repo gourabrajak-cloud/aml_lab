@@ -1,10 +1,8 @@
 import numpy as np
 
 def predict_mlr(X, weights):
-    """Generate MLR predictions: y_hat = H @ weights."""
-    ones = np.ones((len(X), 1))
-    H = np.hstack((ones, X))
-    return H @ weights
+    """Generate MLR predictions: y_hat = X @ weights."""
+    return X @ weights
 
 
 def compute_mlr_residual(y, predictions):
@@ -14,9 +12,7 @@ def compute_mlr_residual(y, predictions):
 
 def compute_mlr_gradient(X, residual):
     """Compute the full batch gradient for all MLR parameters."""
-    ones = np.ones((len(X), 1))
-    H = np.hstack((ones, X))
-    return 2/len(X)*((H.T)@residual)
+    return 2/len(X)*((X.T)@residual)
     
 
 def compute_mlr_loss(residual):
