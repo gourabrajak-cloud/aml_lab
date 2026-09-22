@@ -1,0 +1,601 @@
+Student_ID,Name,Age,Gender,Prayers_Before_Exams,Department,Study_Hours,Attendance,Assignments,Exam_Score,Result,Grade,Entrance_Exam_Score,Rank,Placement,LPA
+ST001,Rina Bhat,17,Female,Yes,Information Technology,7,75,14,62.38,Pass,B,186,316,Placed,5.21
+ST002,Aika Sethi,19,Male,No,Electronics,5,99,11,63.49,Pass,B,190,289,Placed,5.87
+ST003,Takeru Khan,19,Female,No,Computer Science,7,89,14,65.81,Pass,B,196,263,Placed,4.47
+ST004,Marina Bansal,19,Male,No,Electronics,0,83,3,17.27,Fail,F,57,593,Not Placed,0.0
+ST005,Honoka Patil,19,Male,No,Mechanical,8,80,20,95.79,Pass,A+,294,7,Placed,9.34
+ST006,Yui Jain,19,Female,No,Information Technology,5,79,14,61.64,Pass,B,189,320,Not Placed,0.0
+ST007,Yoko Menon,20,Male,No,Mechanical,5,80,15,67.69,Pass,B,194,264,Placed,4.52
+ST008,Akiko Malik,18,Male,Yes,Information Technology,4,84,13,58.07,Pass,C,171,364,Not Placed,0.0
+ST009,Hitomi Goel,18,Male,No,Electronics,6,80,15,74.97,Pass,A,224,136,Placed,5.06
+ST010,Hitomi Chatterjee,18,Male,No,Information Technology,2,76,8,40.06,Pass,D,111,543,Placed,2.05
+ST011,Reiko Pandey,18,Male,No,Information Technology,8,84,17,84.3,Pass,A+,249,67,Not Placed,0.0
+ST012,Himari Bhat,19,Male,Yes,Computer Science,7,74,16,74.96,Pass,A,224,143,Not Placed,0.0
+ST013,Sakura Mitra,20,Female,Yes,Computer Science,3,85,7,40.78,Pass,D,120,531,Not Placed,0.0
+ST014,Sota Malik,17,Male,Yes,Computer Science,7,80,18,81.31,Pass,A+,244,83,Placed,9.74
+ST015,Aoi Islam,17,Male,Yes,Information Technology,7,89,13,66.67,Pass,B,193,288,Not Placed,0.0
+ST016,Mao Jain,18,Male,Yes,Computer Science,6,92,12,65.03,Pass,B,193,286,Not Placed,0.0
+ST017,Yuto More,19,Female,No,Mechanical,4,92,15,67.44,Pass,B,203,229,Not Placed,0.0
+ST018,Reiko Choudhary,19,Male,No,Electronics,4,85,12,51.95,Pass,C,156,448,Not Placed,0.0
+ST019,Akari Thakur,17,Male,Yes,Information Technology,4,86,12,52.32,Pass,C,159,446,Placed,3.7
+ST020,Koharu Bansal,20,Male,Yes,Computer Science,4,79,13,54.52,Pass,C,166,408,Not Placed,0.0
+ST021,Yuto Shetty,19,Female,Yes,Mechanical,8,89,15,80.32,Pass,A+,239,90,Placed,8.23
+ST022,Asuka Choudhary,17,Male,Yes,Mechanical,2,90,5,29.19,Fail,F,88,577,Not Placed,0.0
+ST023,Momoka Karmakar,19,Male,Yes,Electronics,7,66,15,70.84,Pass,A,209,188,Not Placed,0.0
+ST024,Yui Malhotra,19,Male,Yes,Computer Science,4,86,10,48.82,Pass,D,145,478,Not Placed,0.0
+ST025,Ayaka Choudhury,18,Female,No,Information Technology,5,96,13,62.35,Pass,B,182,328,Not Placed,0.0
+ST026,Manami Banerjee,17,Male,No,Computer Science,7,78,17,76.82,Pass,A,236,101,Placed,5.06
+ST027,Sara Datta,17,Male,Yes,Computer Science,8,76,20,93.74,Pass,A+,280,16,Placed,10.08
+ST028,Aoi Khanna,17,Female,No,Electronics,4,78,13,59.88,Pass,C,185,311,Placed,4.61
+ST029,Junko Kulkarni,19,Female,No,Electronics,5,67,11,55.56,Pass,C,168,405,Not Placed,0.0
+ST030,Shin Acharya,20,Male,Yes,Information Technology,5,83,12,60.23,Pass,B,176,367,Not Placed,0.0
+ST031,Yuriko Tiwari,17,Female,Yes,Mechanical,0,82,4,20.77,Fail,F,64,589,Not Placed,0.0
+ST032,Yuzuki Varma,18,Male,No,Information Technology,4,84,9,47.21,Pass,D,146,479,Not Placed,0.0
+ST033,Itsuki Goel,18,Male,Yes,Information Technology,5,86,11,60.37,Pass,B,181,334,Not Placed,0.0
+ST034,Haruka Bansal,18,Male,No,Computer Science,5,74,16,73.17,Pass,A,220,166,Not Placed,0.0
+ST035,Momoka Pillai,19,Female,No,Mechanical,6,85,15,66.01,Pass,B,195,257,Not Placed,0.0
+ST036,Mai Kulkarni,18,Male,Yes,Computer Science,4,86,11,53.88,Pass,C,162,433,Placed,4.23
+ST037,Takeru Sarkar,18,Male,Yes,Mechanical,5,77,14,65.82,Pass,B,199,247,Not Placed,0.0
+ST038,Kaori Desai,18,Male,No,Mechanical,5,86,14,68.74,Pass,B,203,217,Not Placed,0.0
+ST039,Kaori Menon,19,Female,Yes,Computer Science,6,83,17,74.59,Pass,A,218,174,Not Placed,0.0
+ST040,Ryusei Tiwari,18,Male,Yes,Information Technology,7,76,15,75.04,Pass,A,232,117,Not Placed,0.0
+ST041,Kaori Gaikwad,19,Male,No,Mechanical,5,85,14,70.76,Pass,A,215,163,Not Placed,0.0
+ST042,Miku Kumar,18,Male,No,Information Technology,7,79,14,65.35,Pass,B,193,283,Not Placed,0.0
+ST043,Ema Desai,19,Male,Yes,Mechanical,4,89,11,58.46,Pass,C,176,350,Placed,4.51
+ST044,Asuka Srivastava,19,Male,No,Mechanical,5,80,13,56.57,Pass,C,162,440,Not Placed,0.0
+ST045,Sota Jadhav,17,Female,Yes,Information Technology,4,69,12,47.86,Pass,D,134,519,Not Placed,0.0
+ST046,Miku Kumar,18,Male,No,Information Technology,5,85,13,58.17,Pass,C,180,351,Placed,3.89
+ST047,Daiki Joshi,19,Male,No,Mechanical,6,84,16,69.64,Pass,B,210,203,Not Placed,0.0
+ST048,Yui Khanna,20,Female,No,Electronics,8,71,17,82.55,Pass,A+,247,78,Placed,7.93
+ST049,Nao Patel,18,Male,No,Computer Science,3,90,10,44.15,Pass,D,134,505,Not Placed,0.0
+ST050,Misaki Sen,18,Male,No,Computer Science,6,89,13,62.74,Pass,B,204,220,Placed,4.97
+ST051,Kazuki Hussain,20,Female,Yes,Information Technology,5,73,19,75.89,Pass,A,232,116,Placed,5.97
+ST052,Riku Bedi,19,Male,No,Mechanical,3,75,8,36.0,Fail,F,103,558,Not Placed,0.0
+ST053,Junko Mandal,17,Male,Yes,Mechanical,3,81,8,35.25,Fail,F,97,569,Not Placed,0.0
+ST054,Momoka Yadav,20,Male,Yes,Electronics,4,74,13,59.35,Pass,C,183,341,Placed,4.68
+ST055,Yuki Karmakar,18,Male,Yes,Computer Science,3,88,9,40.97,Pass,D,127,535,Placed,2.45
+ST056,Hiroto Malhotra,19,Male,No,Computer Science,4,83,13,63.62,Pass,B,194,268,Placed,5.32
+ST057,Michiko Biswas,18,Male,No,Mechanical,4,71,12,56.74,Pass,C,166,418,Not Placed,0.0
+ST058,Mao Jadhav,17,Male,Yes,Computer Science,4,74,11,45.15,Pass,D,137,499,Placed,2.21
+ST059,Yuto Pandey,18,Male,Yes,,6,94,13,70.85,Pass,A,209,211,Placed,7.06
+ST060,Noriko Shah,19,Female,No,Computer Science,5,97,11,53.07,Pass,C,163,419,Placed,4.83
+ST061,Haruka Agrawal,18,Female,No,Electronics,10,87,20,94.39,Pass,A+,288,5,Placed,11.43
+ST062,Momoka Jain,18,Male,Yes,Mechanical,5,80,13,55.86,Pass,C,165,422,Not Placed,0.0
+ST063,Sayaka Prasad,18,Male,No,Computer Science,7,78,15,69.69,Pass,B,215,165,Not Placed,0.0
+ST064,Koki Srivastava,18,Female,No,Information Technology,8,87,18,86.4,Pass,A+,260,47,Placed,8.68
+ST065,Takumi Malhotra,20,Male,No,Electronics,6,83,12,63.51,Pass,B,193,278,Not Placed,0.0
+ST066,Ryusei Rajput,18,Male,Yes,Mechanical,5,66,15,62.72,Pass,B,182,339,Not Placed,0.0
+ST067,Saki Ghosh,19,Female,No,Computer Science,7,92,18,87.76,Pass,A+,264,45,Placed,9.88
+ST068,Risa Reddy,19,Male,No,Information Technology,3,95,8,39.81,Fail,F,116,540,Not Placed,0.0
+ST069,Satomi Patel,18,Female,No,Information Technology,4,89,10,53.51,Pass,C,163,436,Placed,4.25
+ST070,Emi Mukherjee,18,Female,No,Mechanical,5,71,13,55.85,Pass,C,175,371,Placed,3.52
+ST071,Haru Khan,18,Male,No,Information Technology,5,76,16,66.58,Pass,B,201,226,Placed,4.58
+ST072,Riku Ansari,18,Male,Yes,Computer Science,1,63,10,34.79,Fail,F,100,557,Not Placed,0.0
+ST073,Yuto Acharya,18,Male,No,Electronics,8,98,15,75.0,Pass,A,228,134,Placed,7.12
+ST074,Kaito Agarwal,18,Female,No,Electronics,6,78,17,76.64,Pass,A,232,112,Placed,7.21
+ST075,Nana Rao,19,Female,Yes,Computer Science,5,100,13,69.79,Pass,B,220,151,Not Placed,0.0
+ST076,Riku Islam,18,Female,No,Mechanical,8,100,18,84.88,Pass,A+,256,58,Not Placed,0.0
+ST077,Nana Pandey,18,Male,Yes,Computer Science,5,73,14,65.03,Pass,B,192,266,Placed,4.61
+ST078,Aika Choudhury,19,Female,Yes,Information Technology,10,75,20,95.95,Pass,A+,292,6,Placed,10.38
+ST079,Chihiro Malik,18,Female,No,Information Technology,5,87,15,73.85,Pass,A,221,148,Not Placed,0.0
+ST080,Kazuki Shukla,19,Female,No,Electronics,3,64,13,50.19,Pass,C,151,464,Placed,4.98
+ST081,Michiko Singh,19,Female,No,Information Technology,7,78,19,84.95,Pass,A+,250,64,Placed,7.31
+ST082,Koki Sarkar,18,Female,Yes,Mechanical,6,77,11,59.93,Pass,C,179,352,Placed,3.81
+ST083,Miyu Nambiar,19,Female,No,Electronics,7,100,16,82.26,Pass,A+,247,74,Placed,7.19
+ST084,Tomomi Dutta,18,Male,Yes,Electronics,9,84,16,79.28,Pass,A,237,104,Placed,7.46
+ST085,Kaori Choudhary,18,Male,Yes,Electronics,7,79,15,67.7,Pass,B,200,251,Not Placed,0.0
+ST086,Himari Shetty,18,Male,No,Electronics,6,76,10,48.89,Pass,D,148,474,Not Placed,0.0
+ST087,Yuki Joshi,18,Female,No,Computer Science,7,91,17,82.64,Pass,A+,243,88,Placed,7.28
+ST088,Miyako Kumar,19,Male,No,Information Technology,6,77,15,71.65,Pass,A,209,205,Placed,7.02
+ST089,Kota Sheikh,17,Female,Yes,Mechanical,5,81,12,53.62,Pass,C,164,410,Not Placed,0.0
+ST090,Takeru Biswas,18,Female,No,Computer Science,8,76,16,77.6,Pass,A,236,93,Not Placed,0.0
+ST091,Marina Siddiqui,17,Female,No,Electronics,3,67,10,43.8,Pass,D,125,522,Not Placed,0.0
+ST092,Risa Choudhary,19,Male,No,Mechanical,6,72,13,61.15,Pass,B,174,358,Placed,4.11
+ST093,Akiko Kumar,18,Male,No,Computer Science,8,77,16,78.84,Pass,A,231,102,Placed,7.02
+ST094,Kaori Krishnan,19,Male,Yes,Electronics,6,79,12,62.96,Pass,B,188,301,Placed,5.69
+ST095,Reina Shukla,18,Female,Yes,Information Technology,6,80,14,64.55,Pass,B,199,253,Not Placed,0.0
+ST096,Sachiko Jain,19,Female,No,Information Technology,7,81,15,76.53,Pass,A,229,129,Not Placed,0.0
+ST097,Mai Mirza,20,Female,Yes,Computer Science,5,77,12,53.02,Pass,C,155,445,Not Placed,0.0
+ST098,Keiko Jadhav,19,Male,Yes,Computer Science,8,95,19,88.15,Pass,A+,265,40,Placed,8.2
+ST099,Mao Reddy,19,Female,No,Electronics,3,91,12,53.68,Pass,C,160,437,Not Placed,0.0
+ST100,Sakura Mirza,18,Female,No,Mechanical,3,81,13,53.06,Pass,C,152,468,Not Placed,0.0
+ST101,Mio Bhattacharya,19,Male,No,Electronics,4,85,12,53.78,Pass,C,154,459,Not Placed,0.0
+ST102,Junko Shetty,18,Female,No,Information Technology,5,78,14,59.67,Pass,C,172,383,Not Placed,0.0
+ST103,Momoka Kumar,18,Male,No,Computer Science,5,60,13,59.54,Pass,C,191,300,Not Placed,0.0
+ST104,Hinata Sharma,18,Male,Yes,Electronics,7,82,13,61.53,Pass,B,189,298,Placed,5.04
+ST105,Hana Gupta,19,Female,Yes,Computer Science,5,85,12,61.47,Pass,B,181,329,Not Placed,0.0
+ST106,Takeru Sengupta,18,Male,Yes,Mechanical,5,66,12,49.03,Pass,D,153,473,Not Placed,0.0
+ST107,Taiga Mirza,19,Female,Yes,Mechanical,0,87,4,26.18,Fail,F,76,584,Not Placed,0.0
+ST108,Fumika Bhat,19,Female,No,Electronics,5,79,13,63.07,Pass,B,195,255,Placed,4.8
+ST109,Junko Gowda,19,Male,Yes,Mechanical,6,85,14,62.32,Pass,B,187,297,Placed,4.6
+ST110,Sayaka Pillai,19,Male,No,Computer Science,0,79,3,18.65,Fail,F,53,594,Not Placed,0.0
+ST111,Hiroto Pawar,19,Male,Yes,Electronics,-1,95,11,55.9,Pass,C,171,411,Not Placed,0.0
+ST112,Reiko Bose,20,Male,Yes,Computer Science,3,84,9,47.07,Pass,D,142,484,Not Placed,0.0
+ST113,Haruto Ansari,19,Male,No,Mechanical,1,92,1,14.25,Fail,F,45,597,Not Placed,0.0
+ST114,Takumi Mehta,19,Male,Yes,Computer Science,5,93,10,55.3,Pass,C,167,413,Not Placed,0.0
+ST115,Reiko Jadhav,20,Male,Yes,Electronics,3,71,10,47.4,Pass,D,143,487,Not Placed,0.0
+ST116,Chihiro Dubey,20,Male,Yes,Mechanical,6,75,17,74.71,Pass,A,228,130,Placed,7.41
+ST117,Shota Shukla,17,Male,Yes,Computer Science,7,87,11,54.28,Pass,C,176,375,Placed,3.54
+ST118,Satomi Roy,18,Female,No,Information Technology,5,78,11,57.35,Pass,C,178,363,Not Placed,0.0
+ST119,Takumi Shukla,18,Female,Yes,Electronics,10,80,20,94.19,Pass,A+,284,9,Placed,11.89
+ST120,Saki Shetty,17,Male,Yes,Information Technology,5,95,15,71.71,Pass,A,214,173,Placed,5.62
+ST121,Saki Sinha,19,Male,No,Computer Science,5,79,12,51.84,Pass,C,155,451,Not Placed,0.0
+ST122,Ayaka Rao,19,Female,Yes,Computer Science,10,72,20,93.41,Pass,A+,274,30,Placed,10.0
+ST123,Ren Basu,19,Female,No,Computer Science,4,74,14,66.35,Pass,B,202,228,Placed,4.67
+ST124,Hinata Sarkar,17,Female,No,Mechanical,8,100,19,90.56,Pass,A+,267,33,Placed,35.0
+ST125,Mei Mandal,19,Female,No,Information Technology,1,80,8,34.35,Fail,F,101,563,Not Placed,0.0
+ST126,Daiki Sarkar,19,Male,No,Computer Science,5,68,12,56.56,Pass,C,173,379,Not Placed,0.0
+ST127,Nao Goel,19,Male,Yes,Information Technology,2,64,10,43.96,Pass,D,131,513,Not Placed,0.0
+ST128,Marina Choudhary,20,Male,No,Information Technology,6,76,11,54.09,Pass,C,160,431,Placed,3.91
+ST129,Kenta Reddy,19,Male,Yes,Computer Science,6,80,17,74.91,Pass,A,219,168,Not Placed,0.0
+ST130,Miyu Gaikwad,18,Male,No,Information Technology,6,91,14,74.07,Pass,A,228,125,Placed,7.24
+ST131,Ayaka Yadav,19,Male,Yes,Computer Science,4,91,12,60.2,Pass,B,176,357,Placed,4.43
+ST132,Kota Sinha,18,Male,No,Computer Science,4,82,10,44.81,Pass,D,132,517,Not Placed,0.0
+ST133,Hina Thakur,17,Female,No,Electronics,1,77,3,12.51,Fail,F,29,599,Not Placed,0.0
+ST134,Kaori Joshi,19,Female,Yes,Computer Science,4,85,12,56.57,Pass,C,170,391,Not Placed,0.0
+ST135,Reiko Mishra,18,Male,Yes,Electronics,8,65,19,81.17,Pass,A+,242,81,Placed,7.03
+ST136,Nana Dutta,19,Female,No,Information Technology,4,100,13,61.29,Pass,B,185,307,Placed,5.55
+ST137,Kohane Sharma,18,Male,No,Information Technology,7,89,17,85.4,Pass,A+,250,72,Placed,9.46
+ST138,Koki Joshi,19,Female,Yes,Electronics,7,91,17,77.24,Pass,A,235,103,Placed,5.18
+ST139,Kyoko Gupta,18,Male,No,Information Technology,4,71,10,48.62,Pass,D,137,500,Not Placed,0.0
+ST140,Yuriko Tiwari,20,Female,No,Mechanical,6,95,16,74.73,Pass,A,224,133,Placed,6.83
+ST141,Saki Hussain,19,Female,No,Electronics,2,77,6,32.61,Fail,F,98,562,Not Placed,0.0
+ST142,Fumika Gaikwad,17,Male,Yes,Information Technology,2,72,10,44.95,Pass,D,135,507,Not Placed,0.0
+ST143,Kohane Mandal,19,Male,No,Mechanical,1,82,6,23.58,Fail,F,72,586,Not Placed,0.0
+ST144,Ryusei Bansal,20,Male,Yes,Electronics,5,81,13,61.35,Pass,B,188,325,Not Placed,0.0
+ST145,Risa Biswas,18,Male,No,Computer Science,5,71,15,61.78,Pass,B,192,284,Placed,4.76
+ST146,Sota Sethi,18,Male,No,Computer Science,5,73,15,70.28,Pass,A,210,207,Placed,7.38
+ST147,Haruto Tiwari,18,Female,Yes,Computer Science,5,72,15,70.09,Pass,A,205,212,Placed,7.62
+ST148,Ren Bhattacharya,18,Male,No,Mechanical,4,72,10,45.6,Pass,D,140,497,Not Placed,0.0
+ST149,Michiko Karmakar,19,Female,Yes,Electronics,6,78,16,72.39,Pass,A,216,161,Placed,7.55
+ST150,Yuki Iyer,19,Female,No,Mechanical,7,68,15,66.84,Pass,B,207,209,Placed,5.55
+ST151,Yuna Banerjee,18,Male,No,Electronics,0,75,7,31.13,Fail,F,90,575,Not Placed,0.0
+ST152,Hiroto Agarwal,18,Male,No,Information Technology,3,92,7,37.45,Fail,F,108,547,Not Placed,0.0
+ST153,Ayumi Mirza,19,Male,Yes,Computer Science,6,90,14,66.45,Pass,B,200,232,Not Placed,0.0
+ST154,Takeru Sarkar,18,Female,No,Electronics,4,72,10,45.75,Pass,D,129,523,Not Placed,0.0
+ST155,Michiko Siddiqui,17,Male,Yes,Information Technology,6,92,16,72.01,Pass,A,214,182,Placed,5.81
+ST156,Itsuki Agarwal,20,Female,Yes,Mechanical,4,62,14,60.71,Pass,B,180,365,Placed,5.62
+ST157,Kana Jadhav,19,Female,No,Computer Science,5,100,13,60.64,Pass,B,183,321,Not Placed,0.0
+ST158,Miku Naik,19,Male,Yes,Information Technology,3,95,10,51.84,Pass,C,151,470,Not Placed,0.0
+ST159,Chihiro Rajput,19,Male,Yes,Electronics,4,76,13,54.51,Pass,C,159,453,Not Placed,0.0
+ST160,Shiori Banerjee,18,Female,No,Electronics,6,86,17,75.56,Pass,A,232,118,Placed,6.6
+ST161,Rina Mirza,19,Female,Yes,Information Technology,5,68,13,59.49,Pass,C,178,345,Not Placed,0.0
+ST162,Shiori Saxena,18,Male,Yes,Electronics,7,83,15,78.17,Pass,A,239,86,Placed,5.16
+ST163,Riku Hegde,17,Male,No,Computer Science,7,80,17,82.05,Pass,A+,243,84,Not Placed,0.0
+ST164,Rumi Ghosh,18,Female,Yes,Electronics,5,74,9,42.48,Pass,D,127,526,Not Placed,0.0
+ST165,Hina Gowda,18,Male,No,Electronics,7,77,18,78.19,Pass,A,236,107,Placed,6.37
+ST166,Takeru Pandey,19,Female,No,Mechanical,4,76,10,51.53,Pass,C,163,416,Not Placed,0.0
+ST167,Minato Majumdar,17,Male,No,Mechanical,5,71,13,58.14,Pass,C,173,378,Not Placed,0.0
+ST168,Hana Bose,17,Male,No,Computer Science,6,73,16,67.76,Pass,B,202,234,Not Placed,0.0
+ST169,Emi Mitra,18,Female,Yes,Computer Science,4,68,11,52.98,Pass,C,164,425,Not Placed,0.0
+ST170,Naoki Sengupta,18,Male,Yes,Mechanical,5,91,14,70.73,Pass,A,210,193,Placed,7.83
+ST171,Nanami Mirza,19,Male,No,Information Technology,3,73,12,57.07,Pass,C,173,374,Not Placed,0.0
+ST172,Sayaka Mukherjee,18,Male,No,Mechanical,6,70,15,72.01,Pass,A,221,160,Placed,7.66
+ST173,Yuzuki Jain,19,Male,No,Computer Science,7,90,17,85.37,Pass,A+,253,69,Placed,7.31
+ST174,Kyoko Agrawal,18,Female,Yes,Electronics,7,86,16,72.08,Pass,A,218,175,Not Placed,0.0
+ST175,Mei Sen,19,Male,Yes,Mechanical,6,90,15,68.15,Pass,B,213,191,Not Placed,0.0
+ST176,Nanako Mehta,19,Male,Yes,Mechanical,6,91,12,63.01,Pass,B,194,285,Placed,5.49
+ST177,Itsuki Chakraborty,18,Female,No,Computer Science,5,100,12,62.85,Pass,B,190,275,Not Placed,0.0
+ST178,Taiga Varma,19,Female,No,Electronics,5,80,10,50.04,Pass,C,149,476,Placed,4.61
+ST179,Kaori Sinha,18,Male,No,Information Technology,3,67,8,35.11,Fail,F,102,561,Not Placed,0.0
+ST180,Noa Pillai,18,Male,No,Computer Science,5,85,9,47.49,Pass,D,138,501,Not Placed,0.0
+ST181,Kaito Reddy,20,Female,Yes,Electronics,5,75,14,64.01,Pass,B,200,241,Not Placed,0.0
+ST182,Mei Kapoor,18,Female,No,Electronics,9,72,20,86.02,Pass,A+,265,46,Placed,7.81
+ST183,Mei Pawar,17,Male,No,Mechanical,5,83,12,55.62,Pass,C,164,421,Not Placed,0.0
+ST184,Koki Chatterjee,19,Male,No,Information Technology,5,91,15,70.95,Pass,A,215,190,Placed,6.41
+ST185,Noriko Patel,17,Male,No,Computer Science,5,74,15,68.94,Pass,B,207,200,Placed,5.42
+ST186,Akari Bose,19,Female,No,Computer Science,6,95,12,59.67,Pass,C,185,319,Not Placed,0.0
+ST187,Kaori Rao,18,Female,No,Information Technology,6,72,13,61.52,Pass,B,186,296,Placed,4.88
+ST188,Hitomi Yadav,20,Female,Yes,Computer Science,3,80,12,55.86,Pass,C,167,412,Placed,3.23
+ST189,Haruka Sethi,19,Female,Yes,Electronics,5,86,13,61.89,Pass,B,183,361,Not Placed,0.0
+ST190,Junko Thakur,19,Female,No,Information Technology,7,78,14,62.8,Pass,B,190,279,Placed,5.41
+ST191,Kaori Chopra,20,Male,Yes,Mechanical,5,64,12,52.94,Pass,C,157,444,Not Placed,0.0
+ST192,Kaede Sarkar,18,Male,Yes,Mechanical,4,91,12,56.01,Pass,C,169,395,Not Placed,0.0
+ST193,Haruto Das,20,Male,Yes,Electronics,6,76,13,66.73,Pass,B,200,250,Not Placed,0.0
+ST194,Yuna Gowda,17,Male,No,Mechanical,7,89,11,56.12,Pass,C,166,415,Not Placed,0.0
+ST195,Kaori Malik,18,Female,Yes,Electronics,2,69,8,36.43,Fail,F,104,554,Not Placed,0.0
+ST196,Kana Islam,18,Male,No,Information Technology,7,71,16,68.33,Pass,B,208,210,Not Placed,0.0
+ST197,Sota More,18,Male,No,Computer Science,7,91,16,77.66,Pass,A,233,119,Not Placed,0.0
+ST198,Erika Ghosh,18,Male,Yes,Information Technology,5,85,16,73.34,Pass,A,229,106,Placed,7.73
+ST199,Marina Thakur,19,Male,Yes,Information Technology,10,78,20,92.78,Pass,A+,273,23,Placed,11.61
+ST200,Yuna Sengupta,19,Male,Yes,Mechanical,7,86,17,80.01,Pass,A+,243,80,Placed,9.32
+ST201,Hiroto Bose,20,Male,No,Information Technology,7,72,18,76.8,Pass,A,230,108,Not Placed,0.0
+ST202,Kaori Mittal,18,Female,Yes,Mechanical,6,83,15,68.6,Pass,B,216,169,Placed,4.72
+ST203,Nana Goel,19,Male,Yes,Electronics,3,83,14,62.58,Pass,B,190,302,Placed,4.37
+ST204,Kaede Sharma,18,Female,Yes,Computer Science,3,78,7,33.32,Fail,F,102,553,Not Placed,0.0
+ST205,Miku Rao,18,Male,No,Mechanical,5,74,11,56.9,Pass,C,170,387,Not Placed,0.0
+ST206,Koki Patil,18,Male,No,Information Technology,4,83,13,61.16,Pass,B,180,349,Placed,5.29
+ST207,Sakura Mehta,18,Male,No,Information Technology,5,81,16,71.08,Pass,A,215,172,Not Placed,0.0
+ST208,Ayumi Mirza,19,Male,No,Electronics,8,77,17,75.18,Pass,A,219,164,Not Placed,0.0
+ST209,Yuzuki Ganguly,19,Female,Yes,Computer Science,7,72,14,66.5,Pass,B,193,272,Placed,4.66
+ST210,Nanami Varma,18,Male,No,Electronics,6,82,18,83.91,Pass,A+,257,55,Placed,9.58
+ST211,Shiori Khanna,17,Male,Yes,Information Technology,7,77,15,68.67,Pass,B,197,238,Placed,4.25
+ST212,Reiko Patel,17,Female,No,Information Technology,7,72,17,80.37,Pass,A+,240,95,Placed,8.3
+ST213,Rina Gupta,17,Male,No,Mechanical,5,82,16,69.27,Pass,B,203,225,Placed,4.79
+ST214,Kaori Desai,20,Male,No,Information Technology,3,98,9,51.06,Pass,C,151,454,Not Placed,0.0
+ST215,Sara Menon,17,Female,Yes,Computer Science,5,78,12,52.44,Pass,C,158,447,Not Placed,0.0
+ST216,Rina Desai,17,Female,Yes,Information Technology,6,97,13,71.28,Pass,A,219,159,Placed,7.81
+ST217,Kenta Khan,18,Male,Yes,Mechanical,5,100,15,72.99,Pass,A,225,121,Placed,5.46
+ST218,Misaki Biswas,19,Female,Yes,Computer Science,6,72,17,72.76,Pass,A,214,178,Placed,5.03
+ST219,Yuto Biswas,20,Female,Yes,Computer Science,2,82,8,35.42,Fail,F,104,559,Not Placed,0.0
+ST220,Sota Acharya,19,Male,Yes,Computer Science,6,100,18,84.75,Pass,A+,275,26,Placed,7.71
+ST221,Kanna Pandey,19,Female,Yes,Computer Science,7,81,16,81.24,Pass,A+,242,82,Placed,9.46
+ST222,Satomi Sarkar,18,Male,No,Mechanical,6,82,17,74.42,Pass,A,219,157,Placed,5.63
+ST223,Yuzuki Datta,17,Male,No,Electronics,9,65,19,81.89,Pass,A+,242,85,Placed,7.72
+ST224,Yuto Majumdar,20,Male,No,Information Technology,7,77,20,89.69,Pass,A+,268,28,Placed,7.39
+ST225,Yuto Sharma,19,Male,Yes,Electronics,8,88,20,93.37,Pass,A+,278,20,Placed,11.86
+ST226,Haruka Deshmukh,19,Female,No,Information Technology,8,100,18,89.77,Pass,A+,268,34,Not Placed,0.0
+ST227,Nana Shukla,19,Male,Yes,Mechanical,7,80,19,87.84,Pass,A+,263,50,Placed,7.21
+ST228,Akiko Sengupta,19,Female,No,Mechanical,6,65,17,70.69,Pass,A,212,181,Placed,5.99
+ST229,Shiori Singh,19,Female,Yes,Information Technology,0,68,8,35.02,Fail,F,100,564,Not Placed,0.0
+ST230,Kaede Bhat,20,Male,No,Mechanical,5,82,8,43.29,Pass,D,132,509,Not Placed,0.0
+ST231,Haruto Rao,20,Female,No,Electronics,5,94,14,63.92,Pass,B,192,267,Not Placed,0.0
+ST232,Akira Roy,19,Male,No,Computer Science,4,88,12,60.17,Pass,B,183,303,Not Placed,0.0
+ST233,Yuto Saha,19,Male,No,Computer Science,4,87,12,58.82,Pass,C,168,399,Placed,3.56
+ST234,Mao Mirza,17,Female,No,Information Technology,9,95,20,95.22,Pass,A+,286,12,Placed,11.22
+ST235,Koki Khanna,19,Male,No,Electronics,8,75,18,84.59,Pass,A+,244,77,Placed,9.19
+ST236,Michiko Bhattacharya,17,Male,No,Mechanical,7,82,19,83.42,Pass,A+,249,73,Placed,8.6
+ST237,Nanami Kumar,19,Male,No,Electronics,5,77,14,63.14,Pass,B,193,269,Not Placed,0.0
+ST238,Erika Das,20,Male,No,Mechanical,0,79,5,27.14,Fail,F,87,579,Not Placed,0.0
+ST239,Nanami Saha,19,Male,No,Electronics,2,72,10,38.47,Fail,F,117,542,Not Placed,0.0
+ST240,Maki Joshi,18,Male,No,Mechanical,4,79,12,54.0,Pass,C,165,424,Placed,4.86
+ST241,Ema Gupta,18,Female,No,Electronics,0,82,6,30.53,Fail,F,90,574,Not Placed,0.0
+ST242,Hitomi Rajput,17,Male,Yes,Information Technology,0,78,9,41.66,Pass,D,122,529,Not Placed,0.0
+ST243,Kanna Bansal,19,Male,Yes,Information Technology,8,80,17,80.49,Pass,A+,255,66,Placed,9.85
+ST244,Sora Rao,18,Male,Yes,Mechanical,6,86,12,61.08,Pass,B,187,317,Not Placed,0.0
+ST245,Koharu Joshi,17,Male,Yes,Computer Science,4,94,12,59.79,Pass,C,174,372,Placed,3.72
+ST246,Sakura Patel,18,Female,Yes,Mechanical,3,95,10,55.01,Pass,C,156,466,Not Placed,0.0
+ST247,Yuka Arora,19,Female,No,Computer Science,5,90,14,70.94,Pass,A,210,186,Placed,7.33
+ST248,Suzune Arora,19,Female,Yes,Information Technology,0,69,5,16.63,Fail,F,56,592,Not Placed,0.0
+ST249,Erika Gaikwad,17,Male,No,Mechanical,8,78,19,86.8,Pass,A+,261,49,Placed,9.22
+ST250,Kyoko Pandey,18,Male,Yes,Computer Science,5,79,18,77.85,Pass,A,222,149,Not Placed,0.0
+ST251,Shota Sinha,18,Male,Yes,Computer Science,5,75,15,69.93,Pass,B,209,201,Placed,5.79
+ST252,Hayato Menon,19,Female,No,Information Technology,5,85,15,70.38,Pass,A,211,199,Placed,6.34
+ST253,Kaede Lahiri,19,Male,No,Mechanical,2,66,8,35.7,Fail,F,95,567,Not Placed,0.0
+ST254,Nao Sarkar,18,Male,Yes,Computer Science,6,99,12,69.73,Pass,B,209,198,Not Placed,0.0
+ST255,Yuzuki Joshi,19,Female,No,Mechanical,6,94,10,51.32,Pass,C,149,480,Placed,4.06
+ST256,Erika Reddy,18,Male,No,Computer Science,6,87,14,65.2,Pass,B,186,324,Not Placed,0.0
+ST257,Mai Mandal,19,Male,Yes,Mechanical,3,81,5,28.24,Fail,F,93,576,Not Placed,0.0
+ST258,Aika Deshmukh,18,Male,Yes,Mechanical,5,94,14,66.33,Pass,B,194,293,Not Placed,0.0
+ST259,Sota Ansari,18,Female,No,Information Technology,5,89,12,54.49,Pass,C,160,434,Not Placed,0.0
+ST260,Kenji Hegde,18,Male,No,Information Technology,7,93,14,67.26,Pass,B,198,256,Placed,
+ST261,Yuzuki Mittal,19,Female,No,Information Technology,4,81,12,57.74,Pass,C,173,362,Not Placed,0.0
+ST262,Emi Ansari,19,Female,No,Electronics,4,100,10,57.67,Pass,C,182,338,Not Placed,0.0
+ST263,Akira Rajput,18,Male,Yes,Computer Science,6,94,16,77.16,Pass,A,225,146,Placed,7.55
+ST264,Michiko Mittal,19,Female,No,Computer Science,6,87,16,75.68,Pass,A,226,140,Placed,5.69
+ST265,Ami Chakraborty,19,Male,Yes,Computer Science,5,95,12,58.56,Pass,C,176,354,Not Placed,0.0
+ST266,Akira Chatterjee,18,Male,No,Information Technology,5,78,13,63.45,Pass,B,186,314,Placed,4.48
+ST267,Kenji Lahiri,18,Female,No,Computer Science,5,70,13,61.27,Pass,B,182,330,Not Placed,0.0
+ST268,Shiori Sheikh,19,Female,No,Electronics,7,85,13,67.22,Pass,B,205,222,Placed,4.75
+ST269,Sayaka Deshmukh,18,Female,Yes,Mechanical,5,81,13,58.09,Pass,C,170,401,Not Placed,0.0
+ST270,Rina Gowda,18,Male,Yes,Information Technology,8,80,15,69.57,Pass,B,207,202,Not Placed,0.0
+ST271,Ayaka Mittal,20,Male,No,,5,94,14,63.21,Pass,B,187,318,Not Placed,0.0
+ST272,Reina Kulkarni,17,Male,No,Information Technology,8,84,17,83.02,Pass,A+,249,70,Placed,7.69
+ST273,Misaki Ansari,18,Male,No,Mechanical,7,85,13,69.83,Pass,B,211,197,Not Placed,0.0
+ST274,Keiko Garg,18,Male,Yes,Mechanical,4,79,10,52.19,Pass,C,160,430,Not Placed,0.0
+ST275,Haruto Qureshi,20,Male,No,Mechanical,7,91,15,74.35,Pass,A,233,100,Placed,6.68
+ST276,Shota Lahiri,17,Male,Yes,Mechanical,3,89,12,58.88,Pass,C,163,428,Placed,3.27
+ST277,Haruka Chatterjee,17,Male,No,Computer Science,8,91,18,92.17,Pass,A+,276,22,Placed,10.28
+ST278,Noa Deshmukh,17,Male,Yes,Mechanical,6,77,13,59.78,Pass,C,173,373,Placed,4.83
+ST279,Junko Ganguly,17,Male,No,Electronics,2,95,11,50.63,Pass,C,150,477,Not Placed,0.0
+ST280,Haru Patel,17,Female,Yes,Computer Science,6,100,16,83.25,Pass,A+,254,59,Placed,8.23
+ST281,Hina Mukherjee,18,Male,No,Mechanical,9,90,19,90.72,Pass,A+,278,15,Placed,11.99
+ST282,Riko Singh,19,Female,No,Computer Science,2,74,5,30.05,Fail,F,96,571,Not Placed,0.0
+ST283,Rumi Kapoor,18,Female,Yes,Electronics,5,74,12,61.29,Pass,B,190,306,Placed,4.23
+ST284,Itsuki Pawar,18,Male,Yes,Computer Science,6,78,14,67.78,Pass,B,202,240,Placed,4.5
+ST285,Kohane Pandey,17,Female,Yes,Information Technology,7,76,17,81.49,Pass,A+,251,71,Placed,9.42
+ST286,Daiki Biswas,18,Male,Yes,Electronics,5,81,14,67.5,Pass,B,210,192,Not Placed,0.0
+ST287,Hayato Pandey,18,Male,No,Information Technology,3,88,11,54.19,Pass,C,163,414,Not Placed,0.0
+ST288,Michiko Mitra,19,Male,No,Information Technology,1,85,3,17.13,Fail,F,57,590,Not Placed,0.0
+ST289,Momoka Qureshi,17,Male,No,Computer Science,5,84,13,57.13,Pass,C,172,389,Not Placed,0.0
+ST290,Yuto Varma,18,Male,No,Mechanical,5,80,13,59.27,Pass,C,185,315,Not Placed,0.0
+ST291,Haruto Saha,18,Male,No,Computer Science,8,81,20,93.59,Pass,A+,280,19,Placed,12.05
+ST292,Kota Mehta,19,Female,Yes,Information Technology,2,90,8,35.63,Fail,F,104,552,Not Placed,0.0
+ST293,Kenta Desai,19,Female,Yes,Mechanical,6,62,13,53.13,Pass,C,154,455,Not Placed,0.0
+ST294,Yuka Reddy,19,Male,No,Mechanical,1,82,7,28.54,Fail,F,85,580,Not Placed,0.0
+ST295,Nana Sengupta,18,Female,No,Information Technology,3,85,10,50.12,Pass,C,151,472,Not Placed,0.0
+ST296,Nanami Tripathi,20,Male,Yes,Electronics,5,90,9,54.7,Pass,C,159,441,Placed,3.77
+ST297,Hiroto Mandal,17,Male,Yes,Mechanical,5,72,14,67.81,Pass,B,202,227,Placed,5.91
+ST298,Kohane Menon,17,Female,No,Mechanical,6,71,14,64.18,Pass,B,190,280,Not Placed,0.0
+ST299,Akira Patil,18,Male,No,Information Technology,8,88,18,,Pass,A+,266,41,Placed,12.64
+ST300,Kota Basu,17,Male,Yes,Computer Science,6,63,13,61.36,Pass,B,189,295,Placed,5.92
+ST301,Mai Khanna,20,Male,No,Computer Science,9,95,17,86.76,Pass,A+,266,43,Placed,8.28
+ST302,Sota Mandal,19,Male,No,Computer Science,8,84,20,93.3,Pass,A+,285,8,Placed,9.79
+ST303,Kenji Tiwari,18,Female,Yes,Information Technology,5,98,15,68.51,Pass,B,205,223,Placed,5.25
+ST304,Sakura Agarwal,19,Male,Yes,Computer Science,7,71,17,81.56,Pass,A+,245,75,Placed,9.05
+ST305,Nana Singh,20,Female,No,Electronics,6,78,11,53.87,Pass,C,156,450,Not Placed,0.0
+ST306,Ayaka Singh,19,Male,No,Information Technology,2,60,9,35.41,Fail,F,108,544,Not Placed,0.0
+ST307,Sakura Pawar,19,Male,Yes,Computer Science,6,74,11,56.39,Pass,C,170,394,Not Placed,0.0
+ST308,Hitomi Pillai,20,Male,No,Mechanical,2,80,7,32.17,Fail,F,111,548,Not Placed,0.0
+ST309,Marina Krishnan,20,Female,No,Information Technology,6,62,16,66.3,Pass,B,204,218,Placed,4.25
+ST310,Emi Sethi,19,Male,No,Computer Science,6,78,16,74.44,Pass,A,225,132,Placed,7.36
+ST311,Koharu Krishnan,17,Female,No,Mechanical,2,62,9,31.27,Fail,F,94,572,Not Placed,0.0
+ST312,Noriko Ghosh,18,Female,No,Computer Science,4,79,14,64.68,Pass,B,199,254,Placed,4.04
+ST313,Kohane Bedi,19,Male,No,Electronics,8,93,19,91.4,Pass,A+,270,31,Placed,10.93
+ST314,Junko Roy,18,Female,No,Electronics,6,82,11,57.66,Pass,C,179,340,Placed,3.66
+ST315,Kohane Rajput,19,Female,No,Information Technology,4,99,11,58.2,Pass,C,169,417,Not Placed,0.0
+ST316,Rin Shetty,17,Female,No,Mechanical,6,90,15,72.8,Pass,A,216,177,Placed,7.22
+ST317,Aika Deshmukh,17,Male,No,Information Technology,6,95,14,71.16,Pass,A,204,216,Placed,5.94
+ST318,Kazuki Choudhary,18,Male,Yes,Information Technology,5,74,12,58.02,Pass,C,177,360,Not Placed,0.0
+ST319,Keiko Rao,17,Male,No,Computer Science,9,74,17,84.28,Pass,A+,254,54,Placed,9.48
+ST320,Nanako Patel,20,Male,No,Computer Science,6,85,19,87.75,Pass,A+,260,60,Placed,8.78
+ST321,Nana Chakraborty,19,Male,Yes,Mechanical,4,66,11,52.57,Pass,C,153,467,Not Placed,0.0
+ST322,Saki Mirza,19,Female,No,Information Technology,7,87,20,87.83,Pass,A+,270,39,Placed,9.38
+ST323,Mai Srivastava,19,Male,No,Information Technology,8,79,16,76.16,Pass,A,228,110,Placed,7.97
+ST324,Honoka Shetty,18,Male,Yes,Information Technology,3,95,11,58.68,Pass,C,172,397,Placed,4.36
+ST325,Hinata Nair,18,Female,Yes,Information Technology,3,89,10,47.61,Pass,D,152,475,Not Placed,0.0
+ST326,Himari Rao,19,Female,Yes,Computer Science,3,93,8,38.62,Fail,F,113,546,Not Placed,0.0
+ST327,Ayaka Nambiar,18,Male,Yes,Information Technology,6,74,14,65.28,Pass,B,202,244,Placed,5.97
+ST328,Maki Sharma,18,Female,No,Electronics,6,92,15,68.7,Pass,B,200,245,Placed,4.06
+ST329,Ayaka Patel,18,Male,Yes,Computer Science,6,96,13,63.73,Pass,B,189,299,Not Placed,0.0
+ST330,Yuki Bansal,18,Male,No,Computer Science,8,82,17,86.98,Pass,A+,263,42,Not Placed,0.0
+ST331,Yui Siddiqui,20,Female,No,Computer Science,7,75,11,57.2,Pass,C,171,393,Placed,3.68
+ST332,Kota Agrawal,19,Male,No,Information Technology,3,75,11,46.37,Pass,D,140,491,Not Placed,0.0
+ST333,Kenji Saha,18,Male,No,Mechanical,4,94,14,71.44,Pass,A,212,195,Placed,5.32
+ST334,Takumi Thakur,19,Male,Yes,Computer Science,5,100,14,74.63,Pass,A,216,187,Placed,5.79
+ST335,Daiki Datta,19,Male,No,Computer Science,5,72,18,75.85,Pass,A,235,115,Not Placed,0.0
+ST336,Ami Siddiqui,17,Male,Yes,Computer Science,6,71,16,68.61,Pass,B,203,231,Placed,5.68
+ST337,Sora Shukla,19,Male,No,Electronics,8,91,20,97.97,Pass,A+,295,4,Placed,9.13
+ST338,Ayaka Ghosh,19,Female,No,Electronics,4,74,14,63.37,Pass,B,194,277,Placed,5.04
+ST339,Kota Majumdar,18,Female,Yes,Information Technology,5,92,7,45.06,Pass,D,137,511,Not Placed,0.0
+ST340,Manami Das,18,Male,Yes,Electronics,7,87,17,85.07,Pass,A+,252,65,Placed,8.7
+ST341,Yuzuki Sinha,18,Male,No,Electronics,5,82,10,53.08,Pass,C,165,403,Not Placed,0.0
+ST342,Kyoko Islam,18,Male,No,Mechanical,3,86,7,35.12,Fail,F,108,549,Not Placed,0.0
+ST343,Aoi Pawar,17,Male,No,Mechanical,5,86,11,57.63,Pass,C,174,381,Not Placed,0.0
+ST344,Akari Arora,19,Female,Yes,Computer Science,2,80,8,35.36,Fail,F,107,550,Not Placed,0.0
+ST345,Koharu Gowda,17,Male,No,Computer Science,8,64,19,86.85,Pass,A+,269,36,Placed,8.68
+ST346,Miku Jha,18,Male,Yes,Computer Science,2,84,9,43.32,Pass,D,126,528,Not Placed,0.0
+ST347,Nana Shetty,20,Female,No,Computer Science,5,98,13,60.85,Pass,B,185,313,Placed,4.95
+ST348,Takumi Ganguly,19,Female,No,Mechanical,5,66,14,61.14,Pass,B,181,336,Not Placed,0.0
+ST349,Yuna Das,18,Female,No,Information Technology,10,72,20,91.78,Pass,A+,266,38,Placed,18.75
+ST350,Yuna Sarkar,18,Male,No,Computer Science,3,86,11,49.61,Pass,D,139,504,Not Placed,0.0
+ST351,Suzune Sharma,17,Male,Yes,Electronics,3,82,6,34.12,Fail,F,97,566,Not Placed,0.0
+ST352,Yui Agarwal,19,Male,No,Information Technology,0,86,4,19.05,Fail,F,54,591,Not Placed,0.0
+ST353,Akari Goel,17,Male,No,Computer Science,3,75,10,48.3,Pass,D,156,452,Not Placed,0.0
+ST354,Kaede Kulkarni,18,Female,Yes,Information Technology,3,94,11,48.78,Pass,D,150,471,Not Placed,0.0
+ST355,Mei Lahiri,20,Female,No,Information Technology,6,82,12,61.76,Pass,B,189,305,Placed,4.27
+ST356,Asuka Sinha,17,Female,Yes,Electronics,3,89,10,52.15,Pass,C,153,457,Placed,3.62
+ST357,Kaede Pawar,19,Female,No,Computer Science,1,85,3,,Fail,F,64,588,Not Placed,0.0
+ST358,Yuka Islam,20,Male,No,Computer Science,7,84,18,83.47,Pass,A+,262,44,Placed,8.85
+ST359,Honoka Joshi,17,Female,No,Information Technology,4,88,12,62.45,Pass,B,181,346,Not Placed,0.0
+ST360,Kota Siddiqui,19,Male,Yes,Computer Science,4,84,9,43.8,Pass,D,134,506,Not Placed,0.0
+ST361,Akira Banerjee,18,Male,No,Electronics,4,70,9,37.21,Fail,F,120,538,Not Placed,0.0
+ST362,Riku Hussain,20,Male,No,Information Technology,9,93,20,96.0,Pass,A+,293,3,Placed,11.76
+ST363,Saki Datta,19,Male,No,Information Technology,3,90,13,54.36,Pass,C,172,382,Not Placed,0.0
+ST364,Asuka Qureshi,19,Male,No,Mechanical,8,61,16,77.74,Pass,A,234,99,Not Placed,0.0
+ST365,Shin Verma,18,Female,Yes,Electronics,7,75,18,78.06,Pass,A,237,98,Placed,6.21
+ST366,Sora Das,19,Male,No,Computer Science,2,92,7,40.18,Pass,D,121,536,Not Placed,0.0
+ST367,Koki Joshi,19,Male,No,Information Technology,10,64,20,94.52,Pass,A+,286,11,Placed,12.5
+ST368,Haruka More,18,Male,No,Electronics,4,91,13,58.65,Pass,C,171,398,Not Placed,0.0
+ST369,Akari Pawar,19,Female,No,Electronics,2,81,9,42.58,Pass,D,132,514,Not Placed,0.0
+ST370,Aika Shah,18,Male,No,Computer Science,7,95,13,63.78,Pass,B,193,291,Not Placed,0.0
+ST371,Yuma Gupta,18,Female,No,Mechanical,6,82,16,73.82,Pass,A,222,147,Placed,6.25
+ST372,Kaito Menon,18,Male,No,Information Technology,6,75,16,66.91,Pass,B,209,196,Placed,4.81
+ST373,Kohane Yadav,18,Female,Yes,Computer Science,3,85,11,55.88,Pass,C,166,400,Not Placed,0.0
+ST374,Nana Ansari,18,Male,Yes,Computer Science,5,82,13,66.74,Pass,B,206,213,Not Placed,0.0
+ST375,Sakura Goel,20,Female,Yes,Computer Science,7,74,14,63.95,Pass,B,198,239,Not Placed,0.0
+ST376,Aika Mishra,17,Female,Yes,Mechanical,4,100,14,64.29,Pass,B,197,246,Not Placed,0.0
+ST377,Yuma Hegde,19,Male,No,Computer Science,4,72,13,59.79,Pass,C,175,376,Not Placed,0.0
+ST378,Mao Malik,18,Male,No,Computer Science,0,60,3,8.29,Fail,F,27,600,Not Placed,0.0
+ST379,Miyako Banerjee,19,Male,No,Mechanical,3,98,12,62.35,Pass,B,197,260,Not Placed,0.0
+ST380,Kohane Biswas,20,Male,No,Computer Science,8,76,18,84.31,Pass,A+,244,79,Placed,7.11
+ST381,Momoka Kumar,18,Male,No,Computer Science,5,79,13,59.11,Pass,C,176,348,Not Placed,0.0
+ST382,Kaede Gaikwad,19,Female,No,Computer Science,10,78,20,98.66,Pass,A+,300,1,Placed,21.0
+ST383,Chihiro Pandey,17,Male,No,Computer Science,5,76,13,59.93,Pass,C,179,347,Not Placed,0.0
+ST384,Sachiko Islam,19,Male,No,Computer Science,6,74,17,80.03,Pass,A+,244,76,Placed,9.13
+ST385,Nanami Siddiqui,18,Male,No,Electronics,4,72,13,61.71,Pass,B,192,292,Placed,4.23
+ST386,Akiko Dubey,20,Male,Yes,Computer Science,4,83,13,56.07,Pass,C,169,406,Not Placed,0.0
+ST387,Ayaka Pillai,17,Female,Yes,Computer Science,3,78,10,40.53,Pass,D,124,533,Not Placed,0.0
+ST388,Ami Pandey,19,Male,No,Electronics,4,89,13,66.57,Pass,B,200,233,Not Placed,0.0
+ST389,Kazuki Jain,19,Female,No,Electronics,5,87,11,60.22,Pass,B,182,333,Not Placed,0.0
+ST390,Rin Mitra,18,Female,Yes,Information Technology,10,73,20,88.86,Pass,A+,277,21,Placed,7.92
+ST391,Miyako Pillai,18,Female,No,Information Technology,6,83,14,70.91,Pass,A,212,189,Placed,7.34
+ST392,Nana Pillai,17,Female,No,Computer Science,3,78,6,31.54,Fail,F,93,565,Not Placed,0.0
+ST393,Sara Kapoor,18,Male,Yes,Information Technology,1,72,3,13.35,Fail,F,45,596,Not Placed,0.0
+ST394,Ami Krishnan,19,Female,Yes,Information Technology,3,89,8,45.92,Pass,D,134,515,Not Placed,0.0
+ST395,Yuma Yadav,17,Male,No,Information Technology,5,81,14,61.41,Pass,B,181,335,Not Placed,0.0
+ST396,Sakura Islam,18,Male,No,Mechanical,7,78,15,76.42,Pass,A,226,138,Placed,6.1
+ST397,Nanami Saha,17,Female,Yes,Computer Science,8,73,17,76.01,Pass,A,227,153,Placed,5.72
+ST398,Ryusei Agarwal,19,Female,No,Electronics,0,72,7,29.25,Fail,F,87,578,Not Placed,0.0
+ST399,Kyoko Prasad,17,Female,No,Computer Science,5,100,12,59.45,Pass,C,182,322,Placed,4.34
+ST400,Hina Acharya,18,Male,No,Electronics,5,85,16,73.25,Pass,A,218,155,Placed,5.59
+ST401,Nanako Srivastava,17,Male,Yes,Electronics,6,71,17,76.77,Pass,A,234,105,Placed,7.69
+ST402,Yuna Saxena,18,Female,Yes,Mechanical,5,85,13,58.84,Pass,C,181,344,Not Placed,0.0
+ST403,Yuto Mehta,19,Male,No,Computer Science,6,93,16,76.98,Pass,A,228,122,Placed,5.32
+ST404,Michiko Kulkarni,18,Female,No,Information Technology,6,84,16,74.16,Pass,A,227,131,Placed,7.12
+ST405,Sora Das,18,Female,No,Information Technology,3,96,9,42.28,Pass,D,132,518,Not Placed,0.0
+ST406,Ayaka Hegde,19,Male,Yes,Electronics,7,67,18,82.75,Pass,A+,239,89,Placed,8.5
+ST407,Hiroto Mittal,19,Male,No,Information Technology,3,62,12,47.19,Pass,D,143,489,Not Placed,0.0
+ST408,Minato More,18,Male,Yes,Information Technology,6,85,13,65.07,Pass,B,193,265,Not Placed,0.0
+ST409,Kota Pawar,19,Male,Yes,Information Technology,5,85,13,62.41,Pass,B,194,282,Not Placed,0.0
+ST410,Misaki More,20,Female,Yes,Computer Science,5,60,13,56.15,Pass,C,166,396,Placed,4.74
+ST411,Aika Nambiar,18,Male,Yes,Information Technology,8,76,19,82.68,Pass,A+,241,97,Placed,7.38
+ST412,Itsuki Bose,19,Female,No,Computer Science,8,72,17,78.16,Pass,A,234,109,Not Placed,0.0
+ST413,Mio Desai,19,Male,No,Mechanical,7,68,15,68.48,Pass,B,201,237,Not Placed,0.0
+ST414,Kohane Nair,18,Female,Yes,Electronics,5,72,13,61.57,Pass,B,189,323,Placed,5.36
+ST415,Haru Rao,17,Male,No,Mechanical,6,88,17,82.74,Pass,A+,244,94,Placed,8.72
+ST416,Rin Nambiar,17,Male,Yes,Computer Science,5,72,11,52.49,Pass,C,157,461,Not Placed,0.0
+ST417,Sakura Nambiar,19,Male,No,Mechanical,7,72,14,61.95,Pass,B,194,273,Placed,4.96
+ST418,Naoki Singh,20,Female,No,Mechanical,5,66,12,51.11,Pass,C,159,442,Not Placed,0.0
+ST419,Momoka Arora,19,Female,Yes,Electronics,9,95,19,90.06,Pass,A+,273,25,Placed,10.97
+ST420,Daiki Mandal,18,Female,No,Electronics,-2,86,14,67.87,Pass,B,203,230,Placed,5.44
+ST421,Noa Bhat,19,Male,Yes,Computer Science,6,60,18,74.02,Pass,A,224,137,Not Placed,0.0
+ST422,Emi Bhat,19,Male,Yes,Mechanical,4,72,11,47.02,Pass,D,145,486,Not Placed,0.0
+ST423,Taiga Arora,18,Male,Yes,Information Technology,3,87,9,41.65,Pass,D,120,534,Not Placed,0.0
+ST424,Kenji Khanna,17,Male,No,Computer Science,7,95,19,84.85,Pass,A+,259,48,Placed,9.81
+ST425,Fumika Iyer,19,Male,No,Computer Science,3,90,11,47.19,Pass,D,136,502,Not Placed,0.0
+ST426,Takumi Patil,18,Female,Yes,Mechanical,7,78,15,67.13,Pass,B,204,219,Placed,4.18
+ST427,Hayato Malhotra,19,Female,No,Mechanical,5,63,13,53.14,Pass,C,154,458,Not Placed,0.0
+ST428,Yuki Gupta,18,Female,No,Mechanical,5,91,13,62.99,Pass,B,199,259,Placed,4.04
+ST429,Manami Dutta,17,Female,No,Electronics,8,79,20,91.37,Pass,A+,278,18,Placed,12.22
+ST430,Akiko Prasad,18,Male,No,Computer Science,6,83,14,63.3,Pass,B,182,343,Placed,4.22
+ST431,Takeru Sarkar,18,Male,No,Computer Science,5,80,10,49.67,Pass,D,149,469,Not Placed,0.0
+ST432,Haruka Iyer,20,Male,Yes,Computer Science,5,68,9,42.26,Pass,D,124,527,Not Placed,0.0
+ST433,Suzune Khanna,17,Female,Yes,Computer Science,4,86,14,60.52,Pass,B,178,355,Not Placed,0.0
+ST434,Nanako Mehta,19,Male,No,Information Technology,7,84,15,67.58,Pass,B,203,243,Placed,5.97
+ST435,Nanami Reddy,18,Male,Yes,Computer Science,4,78,13,58.14,Pass,C,170,380,Not Placed,0.0
+ST436,Akiko Mitra,19,Male,No,Information Technology,8,87,18,88.29,Pass,A+,269,32,Not Placed,0.0
+ST437,Chihiro Mirza,18,Male,No,Mechanical,8,68,17,74.99,Pass,A,228,120,Placed,6.86
+ST438,Kyoko Mandal,19,Female,Yes,Information Technology,4,79,11,47.7,Pass,D,145,485,Not Placed,0.0
+ST439,Miku Singh,19,Female,Yes,Mechanical,6,82,18,85.26,Pass,A+,256,62,Placed,8.95
+ST440,Rin Lahiri,18,Male,Yes,Electronics,5,65,10,44.28,Pass,D,136,498,Not Placed,0.0
+ST441,Sara Mehta,17,Female,No,Computer Science,4,81,11,49.21,Pass,D,152,463,Not Placed,0.0
+ST442,Chihiro Arora,19,Female,No,Information Technology,10,89,20,100.0,Pass,A+,300,2,Placed,
+ST443,Kaori Deshmukh,20,Male,Yes,Computer Science,1,79,4,24.74,Fail,F,68,587,Not Placed,0.0
+ST444,Aoi Bhat,17,Male,Yes,Computer Science,4,82,14,62.43,Pass,B,183,332,Placed,4.48
+ST445,Sara Gaikwad,19,Male,Yes,Electronics,5,88,15,69.88,Pass,B,208,204,Placed,5.32
+ST446,Sara Reddy,20,Male,No,Computer Science,5,78,14,60.9,Pass,B,175,368,Placed,5.82
+ST447,Kyoko Lahiri,19,Female,Yes,Computer Science,5,79,12,52.61,Pass,C,159,438,Placed,4.96
+ST448,Shin Mandal,20,Male,No,Information Technology,7,70,13,63.31,Pass,B,197,258,Not Placed,0.0
+ST449,Rina Agarwal,19,Female,Yes,Mechanical,6,82,16,69.58,Pass,B,215,158,Placed,4.4
+ST450,Itsuki Das,18,Male,Yes,Electronics,6,79,20,86.69,Pass,A+,264,35,Placed,7.4
+ST451,Erika Deshmukh,18,Male,No,Electronics,2,87,8,44.1,Pass,D,136,494,Not Placed,0.0
+ST452,Takeru Shukla,18,Male,No,Computer Science,4,88,8,48.48,Pass,D,157,460,Not Placed,0.0
+ST453,Nana Dubey,19,Male,No,Electronics,4,90,12,55.13,Pass,C,170,390,Not Placed,0.0
+ST454,Momoka Patel,19,Male,No,Electronics,4,77,13,59.62,Pass,C,183,337,Not Placed,0.0
+ST455,Kaede Nambiar,18,Female,Yes,Electronics,5,60,11,48.71,Pass,D,139,496,Not Placed,0.0
+ST456,Takumi Das,19,Male,No,Mechanical,3,89,9,49.38,Pass,D,155,456,Not Placed,0.0
+ST457,Mao Pillai,19,Female,Yes,Computer Science,4,86,10,47.49,Pass,D,144,488,Not Placed,0.0
+ST458,Momoka Choudhary,19,Male,Yes,Mechanical,4,76,10,42.04,Pass,D,126,525,Not Placed,0.0
+ST459,Ren Mitra,18,Male,No,Mechanical,8,88,17,79.29,Pass,A,236,92,Placed,5.17
+ST460,Maki Garg,18,Male,No,Computer Science,8,68,16,72.84,Pass,A,216,167,Placed,7.6
+ST461,Kaito Reddy,18,Male,No,Information Technology,6,92,12,60.47,Pass,B,188,271,Not Placed,0.0
+ST462,Shiori Bansal,18,Male,No,Mechanical,8,79,18,87.45,Pass,A+,262,51,Placed,7.88
+ST463,Rumi Sinha,17,Male,No,Computer Science,7,74,16,75.99,Pass,A,225,139,Not Placed,0.0
+ST464,Ryusei Sharma,18,Male,Yes,Information Technology,5,76,12,54.3,Pass,C,159,449,Placed,3.0
+ST465,Kohane Siddiqui,18,Male,Yes,Mechanical,0,80,5,22.54,Fail,F,68,585,Not Placed,0.0
+ST466,Ema Joshi,18,Male,No,Information Technology,7,82,13,61.05,Pass,B,181,342,Not Placed,0.0
+ST467,Reina Hegde,17,Male,Yes,Computer Science,6,82,15,74.88,Pass,A,222,145,Placed,5.67
+ST468,Rina Ansari,19,Female,No,Information Technology,6,78,14,70.79,Pass,A,205,215,Placed,6.02
+ST469,Hayato Khan,18,Female,No,Computer Science,7,84,17,85.28,Pass,A+,261,56,Placed,9.97
+ST470,Naoki Chopra,20,Male,Yes,Information Technology,5,82,14,69.05,Pass,B,206,221,Not Placed,0.0
+ST471,Akari Sengupta,20,Male,No,Computer Science,6,76,17,72.41,Pass,A,212,184,Placed,6.57
+ST472,Akira Gupta,18,Female,No,Electronics,8,74,18,78.01,Pass,A,233,111,Placed,5.61
+ST473,Sora Bose,18,Female,Yes,Information Technology,4,88,14,65.38,Pass,B,199,261,Not Placed,0.0
+ST474,Chihiro Mehta,17,Male,No,Electronics,6,87,14,72.79,Pass,A,219,171,Placed,6.0
+ST475,Akira Rajput,19,Female,No,Electronics,5,83,12,54.7,Pass,C,165,420,Not Placed,0.0
+ST476,Haruka Kapoor,19,Male,Yes,Information Technology,6,91,14,63.83,Pass,B,192,287,Not Placed,0.0
+ST477,Sara Patel,18,Male,No,Electronics,7,62,18,81.36,Pass,A+,238,96,Placed,7.99
+ST478,Ema Menon,19,Female,No,Computer Science,1,76,8,29.84,Fail,F,94,573,Not Placed,0.0
+ST479,Michiko Kapoor,18,Male,Yes,Information Technology,6,70,15,66.55,Pass,B,191,281,Placed,4.04
+ST480,Michiko Dubey,18,Female,No,Computer Science,3,100,7,42.97,Pass,D,131,520,Placed,2.2
+ST481,Kaori Verma,19,Female,Yes,Mechanical,6,89,16,72.85,Pass,A,222,144,Placed,7.09
+ST482,Hina Jain,18,Male,No,Computer Science,5,81,11,49.67,Pass,D,148,482,Not Placed,0.0
+ST483,Hiroto Prasad,19,Male,No,Information Technology,7,90,14,73.97,Pass,A,224,128,Placed,5.36
+ST484,Kenta Verma,18,Male,Yes,Electronics,3,93,8,44.18,Pass,D,131,521,Not Placed,0.0
+ST485,Haruto Mitra,20,Male,Yes,Information Technology,6,93,14,,Pass,A,227,126,Placed,5.69
+ST486,Sara Rao,17,Female,No,Computer Science,4,91,14,63.54,Pass,B,196,249,Not Placed,0.0
+ST487,Haruto Gowda,18,Male,No,Information Technology,7,79,14,63.43,Pass,B,186,309,Placed,4.7
+ST488,Miyu Majumdar,19,Male,No,Electronics,8,77,20,93.33,Pass,A+,283,14,Placed,12.03
+ST489,Shiori Pandey,18,Female,Yes,Electronics,10,72,20,93.74,Pass,A+,290,10,Placed,11.33
+ST490,Kota Malhotra,20,Male,No,Information Technology,7,87,13,63.6,Pass,B,192,274,Not Placed,0.0
+ST491,Junko Mandal,19,Female,No,Information Technology,7,80,15,75.1,Pass,A,223,142,Placed,
+ST492,Haruto Mishra,19,Male,No,Information Technology,3,78,8,35.74,Fail,F,119,537,Not Placed,0.0
+ST493,Hayato Iyer,19,Female,Yes,Electronics,4,77,13,55.62,Pass,C,167,409,Not Placed,0.0
+ST494,Honoka Ansari,20,Male,No,Information Technology,5,97,11,53.77,Pass,C,162,432,Not Placed,0.0
+ST495,Asuka Sen,20,Male,No,Information Technology,7,92,13,66.89,Pass,B,202,224,Placed,5.13
+ST496,Chihiro Arora,19,Male,Yes,Computer Science,8,100,17,85.11,Pass,A+,258,53,Placed,9.05
+ST497,Yuka Khanna,19,Male,No,Computer Science,3,87,12,55.41,Pass,C,165,427,Placed,3.01
+ST498,Aoi Thakur,17,Female,Yes,Computer Science,8,83,17,84.05,Pass,A+,253,61,Placed,9.79
+ST499,Aika Varma,17,Female,No,Computer Science,6,82,15,74.97,Pass,A,230,127,Placed,5.33
+ST500,Ami Bhat,19,Female,No,Information Technology,6,72,15,64.02,Pass,B,190,290,Not Placed,0.0
+ST501,Manami Naik,17,Male,Yes,Electronics,3,69,7,28.35,Fail,F,83,581,Not Placed,0.0
+ST502,Mio Rajput,18,Male,No,Computer Science,2,87,6,26.95,Fail,F,79,583,Not Placed,0.0
+ST503,Hayato Datta,18,Male,No,Mechanical,5,73,13,55.33,Pass,C,161,435,Placed,3.81
+ST504,Miku Mandal,18,Male,Yes,Computer Science,6,84,13,65.74,Pass,B,194,270,Placed,5.54
+ST505,Kyoko Malhotra,19,Female,No,Electronics,3,93,13,62.75,Pass,B,185,326,Not Placed,0.0
+ST506,Noa Saha,20,Male,No,Electronics,5,75,11,55.9,Pass,C,168,388,Not Placed,0.0
+ST507,Hana Karmakar,17,Male,No,Information Technology,7,100,14,70.68,Pass,A,216,185,Placed,6.31
+ST508,Risa Goel,18,Male,Yes,Computer Science,7,72,17,74.86,Pass,A,232,114,Placed,7.84
+ST509,Haruka Sen,19,Female,No,Electronics,8,92,17,83.81,Pass,A+,252,63,Not Placed,0.0
+ST510,Yuka Sharma,17,Female,No,Information Technology,4,86,6,31.2,Fail,F,96,570,Not Placed,0.0
+ST511,Ryusei Prasad,19,Female,Yes,Mechanical,4,94,15,70.72,Pass,A,213,194,Placed,6.4
+ST512,Rumi Hegde,18,Male,No,Information Technology,6,71,12,62.57,Pass,B,177,356,Not Placed,0.0
+ST513,Kaori Nair,18,Male,No,Mechanical,5,100,14,67.97,Pass,B,198,242,Not Placed,0.0
+ST514,Yuka Naik,20,Female,No,Computer Science,2,80,6,33.28,Fail,F,104,556,Not Placed,0.0
+ST515,Manami Hegde,18,Female,No,,4,89,10,50.75,Pass,C,157,443,Placed,4.75
+ST516,Hayato Bedi,19,Male,No,Electronics,5,96,10,50.41,Pass,C,155,462,Placed,4.62
+ST517,Michiko Bhattacharya,19,Female,No,Electronics,4,76,10,48.4,Pass,D,144,490,Not Placed,0.0
+ST518,Michiko Chopra,17,Female,Yes,Computer Science,4,90,10,48.8,Pass,D,136,503,Not Placed,0.0
+ST519,Kota Joshi,19,Female,No,Electronics,4,74,11,45.38,Pass,D,131,516,Not Placed,0.0
+ST520,Sachiko Naik,20,Female,No,Information Technology,1,96,6,33.98,Fail,F,98,560,Not Placed,0.0
+ST521,Misaki Chatterjee,17,Male,No,Electronics,6,74,12,61.95,Pass,B,189,308,Not Placed,0.0
+ST522,Himari Sen,19,Male,No,Computer Science,6,82,14,65.29,Pass,B,194,262,Placed,5.96
+ST523,Ayaka Sarkar,19,Male,No,Mechanical,6,85,17,77.04,Pass,A,240,91,Placed,7.78
+ST524,Rumi Khan,19,Female,No,Computer Science,3,90,12,60.3,Pass,B,188,310,Placed,5.8
+ST525,Hina Patel,19,Female,No,Mechanical,4,100,12,63.95,Pass,B,200,252,Placed,5.46
+ST526,Ryota Acharya,18,Female,No,Mechanical,6,77,16,75.11,Pass,A,221,150,Not Placed,0.0
+ST527,Yuka Datta,20,Male,No,Mechanical,6,93,19,84.49,Pass,A+,256,52,Placed,8.1
+ST528,Himari Das,20,Female,Yes,Information Technology,5,100,14,74.01,Pass,A,220,156,Placed,5.32
+ST529,Miyu Bhat,19,Female,Yes,Information Technology,4,84,13,56.2,Pass,C,170,404,Placed,4.38
+ST530,Rina Singh,19,Female,No,Mechanical,8,76,15,74.39,Pass,A,219,179,Placed,7.94
+ST531,Miyako Malik,19,Female,Yes,Computer Science,4,65,9,36.07,Fail,F,114,541,Not Placed,0.0
+ST532,Ryota Srivastava,18,Female,Yes,Information Technology,5,100,13,67.58,Pass,B,199,236,Placed,5.45
+ST533,Akira Malik,19,Male,Yes,Electronics,6,80,13,60.55,Pass,B,172,384,Not Placed,0.0
+ST534,Sara Yadav,19,Male,Yes,Electronics,5,72,11,51.45,Pass,C,165,407,Placed,4.86
+ST535,Shiori Prasad,19,Male,Yes,Computer Science,4,68,10,43.8,Pass,D,134,508,Not Placed,0.0
+ST536,Haruto Bhattacharya,19,Male,No,Electronics,5,72,10,44.9,Pass,D,129,524,Not Placed,0.0
+ST537,Yuka Kumar,18,Female,Yes,Mechanical,7,91,15,76.09,Pass,A,227,124,Placed,7.41
+ST538,Riku Joshi,17,Female,No,Computer Science,4,93,12,62.95,Pass,B,186,327,Placed,4.33
+ST539,Hayato Roy,18,Male,No,Mechanical,3,89,13,64.3,Pass,B,193,294,Not Placed,0.0
+ST540,Sakura Deshmukh,18,Male,No,Computer Science,4,83,13,56.37,Pass,C,173,370,Not Placed,0.0
+ST541,Mai Ansari,19,Female,Yes,Information Technology,7,70,17,78.89,Pass,A,240,87,Not Placed,0.0
+ST542,Yuto Garg,19,Male,No,Computer Science,2,75,5,27.56,Fail,F,84,582,Not Placed,0.0
+ST543,Haruka Menon,19,Male,No,Computer Science,10,71,20,91.53,Pass,A+,275,27,Placed,10.0
+ST544,Nanami Gowda,18,Male,No,Mechanical,5,88,13,57.71,Pass,C,179,353,Not Placed,0.0
+ST545,Yuriko Mishra,19,Male,No,Information Technology,10,71,20,95.34,Pass,A+,276,24,Placed,10.37
+ST546,Noriko Garg,18,Male,No,Information Technology,8,75,17,84.65,Pass,A+,250,68,Placed,7.5
+ST547,Sakura Pillai,18,Male,Yes,Computer Science,5,80,16,72.95,Pass,A,214,183,Placed,6.74
+ST548,Kenta Pandey,19,Male,No,Information Technology,3,65,10,42.04,Pass,D,131,512,Not Placed,0.0
+ST549,Haru Garg,19,Female,No,Information Technology,3,82,10,47.28,Pass,D,138,492,Placed,3.46
+ST550,Saki Reddy,18,Male,No,Information Technology,4,81,7,34.95,Fail,F,98,568,Not Placed,0.0
+ST551,Ayaka Datta,17,Female,No,Computer Science,6,94,14,72.76,Pass,A,221,170,Placed,7.28
+ST552,Ayaka Desai,18,Male,Yes,Mechanical,4,74,14,63.71,Pass,B,187,304,Placed,4.85
+ST553,Honoka Deshmukh,17,Male,No,Information Technology,4,69,13,52.35,Pass,C,155,465,Not Placed,0.0
+ST554,Miku Kumar,19,Female,Yes,Information Technology,5,78,9,50.66,Pass,C,164,426,Placed,3.01
+ST555,Minato Deshmukh,18,Male,Yes,Computer Science,8,71,17,76.21,Pass,A,233,113,Placed,5.94
+ST556,Kenta Nambiar,18,Male,Yes,Electronics,3,82,13,62.8,Pass,B,187,312,Placed,5.05
+ST557,Ami Mehta,18,Male,Yes,Information Technology,0,63,5,17.46,Fail,F,52,595,Not Placed,0.0
+ST558,Fumika Krishnan,17,Female,No,Information Technology,2,76,9,36.46,Fail,F,114,545,Not Placed,0.0
+ST559,Ayaka Shah,18,Male,Yes,Computer Science,8,73,20,88.12,Pass,A+,268,29,Placed,7.97
+ST560,Reina Deshmukh,18,Male,Yes,Mechanical,6,88,14,67.84,Pass,B,204,214,Not Placed,0.0
+ST561,Tomomi Bhattacharya,18,Female,No,Computer Science,4,74,13,52.76,Pass,C,159,429,Not Placed,0.0
+ST562,Minato Srivastava,18,Male,No,Electronics,3,65,11,47.11,Pass,D,134,510,Not Placed,0.0
+ST563,Koki Hegde,19,Female,No,Information Technology,4,80,13,60.07,Pass,B,172,386,Placed,4.22
+ST564,Hana Mishra,18,Female,No,Computer Science,3,85,11,53.88,Pass,C,161,423,Not Placed,0.0
+ST565,Naoki Mukherjee,20,Female,No,Electronics,8,79,17,75.57,Pass,A,224,154,Placed,6.33
+ST566,Kenta Bose,18,Male,Yes,Computer Science,-3,76,15,71.45,Pass,A,217,162,Placed,5.76
+ST567,Miyako Arora,19,Female,Yes,Mechanical,5,75,11,47.83,Pass,D,144,483,Not Placed,0.0
+ST568,Yuma Ghosh,19,Male,No,Mechanical,7,83,13,67.96,Pass,B,200,248,Not Placed,0.0
+ST569,Yuto Sarkar,19,Male,Yes,Mechanical,4,73,14,55.86,Pass,C,168,392,Placed,4.82
+ST570,Saki Mukherjee,19,Male,No,Computer Science,6,79,15,74.28,Pass,A,221,135,Placed,5.31
+ST571,Akiko Ansari,18,Female,Yes,Electronics,7,90,19,90.72,Pass,A+,282,13,Placed,16.5
+ST572,Satomi Gaikwad,18,Male,Yes,Information Technology,4,69,15,63.33,Pass,B,192,276,Placed,4.01
+ST573,Michiko Garg,18,Male,No,Mechanical,7,82,16,75.36,Pass,A,218,176,Placed,5.98
+ST574,Takumi Ghosh,19,Male,No,Electronics,4,64,9,36.94,Fail,F,120,532,Not Placed,0.0
+ST575,Aika Patil,17,Female,No,Mechanical,4,84,11,50.7,Pass,C,149,481,Not Placed,0.0
+ST576,Mio Bose,18,Female,No,Information Technology,2,72,7,36.06,Fail,F,103,555,Not Placed,0.0
+ST577,Tomomi Pillai,19,Female,Yes,Information Technology,5,92,9,54.45,Pass,C,174,369,Not Placed,0.0
+ST578,Michiko Islam,19,Male,Yes,Computer Science,6,67,14,57.76,Pass,C,175,402,Not Placed,0.0
+ST579,Miyu Reddy,19,Male,No,Electronics,8,86,18,87.04,Pass,A+,265,37,Placed,8.98
+ST580,Daiki Kapoor,19,Female,No,Information Technology,6,94,13,68.91,Pass,B,210,180,Not Placed,0.0
+ST581,Maki Patel,20,Male,Yes,Information Technology,7,72,15,71.31,Pass,A,213,206,Placed,7.19
+ST582,Sara Biswas,18,Male,No,Electronics,7,73,14,62.15,Pass,B,184,331,Placed,4.91
+ST583,Hitomi Garg,18,Female,Yes,Information Technology,3,73,10,41.64,Pass,D,123,539,Placed,3.03
+ST584,Hana Ansari,18,Female,No,Computer Science,5,77,17,71.5,Pass,A,223,152,Placed,6.08
+ST585,Emi Jain,18,Female,Yes,Information Technology,3,87,12,58.9,Pass,C,178,377,Not Placed,0.0
+ST586,Junko Dutta,19,Female,No,Information Technology,6,76,16,72.1,Pass,A,223,141,Not Placed,0.0
+ST587,Yui Sinha,18,Female,No,Information Technology,8,71,19,85.61,Pass,A+,256,57,Not Placed,0.0
+ST588,Emi Qureshi,19,Male,Yes,Computer Science,3,62,10,46.78,Pass,D,137,493,Not Placed,0.0
+ST589,Ryota Kulkarni,18,Male,No,Computer Science,6,98,11,62.01,Pass,B,179,359,Not Placed,0.0
+ST590,Nao Pawar,19,Female,No,Computer Science,6,99,14,75.64,Pass,A,230,123,Placed,7.0
+ST591,Sakura Mishra,19,Male,Yes,Electronics,5,88,11,55.52,Pass,C,175,366,Not Placed,0.0
+ST592,Asuka Mukherjee,18,Female,Yes,Computer Science,5,74,13,55.64,Pass,C,162,439,Not Placed,0.0
+ST593,Kohane Agarwal,18,Male,Yes,Information Technology,4,89,14,69.48,Pass,B,211,208,Placed,4.08
+ST594,Shin Patel,18,Male,Yes,Mechanical,1,91,11,48.3,Pass,D,138,495,Not Placed,0.0
+ST595,Kohane Mukherjee,17,Female,No,Computer Science,3,79,10,42.75,Pass,D,125,530,Not Placed,0.0
+ST596,Emi Sinha,18,Female,No,Information Technology,0,82,2,10.83,Fail,F,34,598,Not Placed,0.0
+ST597,Keiko Pillai,17,Female,No,Electronics,5,94,13,59.56,Pass,C,170,385,Placed,3.78
+ST598,Shiori Karmakar,18,Male,Yes,Mechanical,2,66,8,33.65,Fail,F,101,551,Not Placed,0.0
+ST599,Sakura Shukla,19,Female,Yes,Electronics,8,92,19,94.88,Pass,A+,280,17,Placed,12.16
+ST600,Hina Verma,19,Male,Yes,Electronics,5,79,13,65.52,Pass,B,200,235,Not Placed,0.0
